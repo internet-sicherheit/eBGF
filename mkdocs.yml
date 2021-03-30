@@ -36,4 +36,4 @@ theme:
   name: material
   features:
     - navigation.tabs
-#  logo: 'images/logo-white.svg'
+ logo: '/site/assets/images/EBGF-min.jpg'
