@@ -1,4 +1,13 @@
-site_name: eBGF RFCs
+# Project information
+site_name: 'eBGF RFCs'
+site_description: 'eco Blockchain Governance Framework RFCs'
+site_author: 'if(is)'
+site_url: 'https://internet-sicherheit.github.io/eBGF/'
+
+# Repository
+repo_name: 'eBGF/RFCs'
+repo_url: 'https://github.com/internet-sicherheit/eBGF/tree/main/RFCs'
+
 nav:
     - Home: index.md
     - Institutional: 
@@ -17,6 +26,7 @@ nav:
         - Technical introduction: 4-tech.md
         - RFC-4001: 4-tech/RFC-4001.md
         - RFC-4002: 4-tech/RFC-4002.md
+
 theme:
   name: material
   features:
