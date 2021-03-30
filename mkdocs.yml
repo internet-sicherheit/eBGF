@@ -6,7 +6,7 @@ site_url: 'https://internet-sicherheit.github.io/eBGF/'
 
 # Repository
 repo_name: 'eBGF/RFCs'
-repo_url: 'https://github.com/internet-sicherheit/eBGF/tree/main/RFCs'
+repo_url: 'https://github.com/internet-sicherheit/eBGF/'
 
 nav:
     - Home: index.md
