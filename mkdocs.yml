@@ -47,13 +47,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/internet-sicherheit/eBGF
       name: eBGF on GitHub
-markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      options:
-        custom_icons:
-          - overrides/.icons
 
 #Footer
 copyright: Site created by the Institute for Internet-Security - if(is). <a href="https://www.internet-sicherheit.de/impressum.html">Imprint</a>. <a href="https://www.internet-sicherheit.de/datenschutz.html">Privacy</a>. Copyright © 2021 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>.
