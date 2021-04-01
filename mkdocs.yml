@@ -5,29 +5,55 @@ site_author: 'if(is)'
 site_url: 'https://internet-sicherheit.github.io/eBGF/'
 
 # Repository
-repo_name: 'eBGF/RFCs'
+repo_name: 'eBGF'
 repo_url: 'https://github.com/internet-sicherheit/eBGF/'
 
+#Site navigation
 nav:
     - Home: index.md
-    - Institutional: 
-        - Institutional introduction: 1-inst.md
-        - RFC-1001: 1-inst/RFC-1001.md
-        - RFC-1002: 1-inst/RFC-1002.md
-    - Economics: 
-        - Economics introduction: 2-eco.md
-        - RFC-2001: 2-eco/RFC-2001.md
-        - RFC-2002: 2-eco/RFC-2002.md
-    - Legal: 
-        - Legal introduction: 3-legal.md
-        - RFC-3001:  3-legal/RFC-3001.md
-        - RFC-3002:  3-legal/RFC-3002.md
-    - Technical: 
-        - Technical introduction: 4-tech.md
-        - RFC-4001: 4-tech/RFC-4001.md
-        - RFC-4002: 4-tech/RFC-4002.md
+    - RFCs:
+        - Institutional: 
+            - Institutional introduction: RFC/1-inst.md
+            - RFC-1001: RFC/1-inst/RFC-1001.md
+            - RFC-1002: RFC/1-inst/RFC-1002.md
+        - Economics: 
+            - Economics introduction: RFC/2-eco.md
+            - RFC-2001: RFC/2-eco/RFC-2001.md
+            - RFC-2002: RFC/2-eco/RFC-2002.md
+        - Legal: 
+            - Legal introduction: RFC/3-legal.md
+            - RFC-3001:  RFC/3-legal/RFC-3001.md
+            - RFC-3002:  RFC/3-legal/RFC-3002.md
+        - Technical: 
+            - Technical introduction: RFC/4-tech.md
+            - RFC-4001: RFC/4-tech/RFC-4001.md
+            - RFC-4002: RFC/4-tech/RFC-4002.md
+    - Glossar: glossar.md
+    - Contact:
+        - FAQ: faq.md
+        - Contribution: contribute.md
+        - Presskit: press.md
 
+#Design
 theme:
   name: material
+  custom_dir: overrides
+  logo: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/site/assets/images/EBGF-logo-transparent-white.png'
+  favicon: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/site/assets/images/EBGF-logo-transparent-white.png'
   features:
     - navigation.tabs
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/internet-sicherheit/eBGF
+      name: eBGF on GitHub
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+#footer
+copyright: Site created by the Institute for Internet-Security - if(is). <a href="https://www.internet-sicherheit.de/impressum.html">Imprint</a>. <a href="https://www.internet-sicherheit.de/datenschutz.html">Privacy</a>. Copyright © 2021 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>.

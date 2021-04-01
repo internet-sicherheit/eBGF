@@ -1,55 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://internet-sicherheit.github.io/eBGF/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/1-inst/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/1-inst/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/1-inst/RFC-1001/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/1-inst/RFC-1001/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/1-inst/RFC-1002/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/1-inst/RFC-1002/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/2-eco/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/2-eco/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/2-eco/RFC-2001/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/2-eco/RFC-2001/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/2-eco/RFC-2002/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/2-eco/RFC-2002/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/3-legal/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/3-legal/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/3-legal/RFC-3001/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/3-legal/RFC-3001/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/3-legal/RFC-3002/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/3-legal/RFC-3002/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/4-tech/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/4-tech/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/4-tech/RFC-4001/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/4-tech/RFC-4001/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://internet-sicherheit.github.io/eBGF/4-tech/RFC-4002/</loc>
-     <lastmod>2021-03-30</lastmod>
+     <loc>https://internet-sicherheit.github.io/eBGF/RFC/4-tech/RFC-4002/</loc>
+     <lastmod>2021-04-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://internet-sicherheit.github.io/eBGF/glossar/</loc>
+     <lastmod>2021-04-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://internet-sicherheit.github.io/eBGF/faq/</loc>
+     <lastmod>2021-04-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://internet-sicherheit.github.io/eBGF/contribute/</loc>
+     <lastmod>2021-04-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://internet-sicherheit.github.io/eBGF/press/</loc>
+     <lastmod>2021-04-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
