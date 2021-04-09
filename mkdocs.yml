@@ -11,12 +11,16 @@ repo_url: 'https://github.com/internet-sicherheit/eBGF/'
 #Site navigation
 nav:
     - Home: index.md
-    - RFCs:
-        - Institutional: 
-            - Institutional introduction: RFC/1-inst.md
+    - Governance Framework:
+        - Organisation: 
+            - Introduction: RFC/1-inst.md
             - RFC-1001: RFC/1-inst/RFC-1001.md
             - RFC-1002: RFC/1-inst/RFC-1002.md
-        - Economics: 
+        - Membership: 
+            - Economics introduction: RFC/2-eco.md
+            - RFC-2001: RFC/2-eco/RFC-2001.md
+            - RFC-2002: RFC/2-eco/RFC-2002.md
+        - Applications: 
             - Economics introduction: RFC/2-eco.md
             - RFC-2001: RFC/2-eco/RFC-2001.md
             - RFC-2002: RFC/2-eco/RFC-2002.md
