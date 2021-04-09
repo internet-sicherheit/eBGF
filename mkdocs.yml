@@ -13,26 +13,27 @@ nav:
     - Home: index.md
     - Governance Framework:
         - Organisation: 
-            - Introduction: RFC/1-inst.md
+            - Organisation Introduction: RFC/organisation-introduction.md
             - RFC-1001: RFC/1-inst/RFC-1001.md
             - RFC-1002: RFC/1-inst/RFC-1002.md
         - Membership: 
-            - Economics introduction: RFC/2-eco.md
+            - Membership Introduction: RFC/membership-introduction.md
             - RFC-2001: RFC/2-eco/RFC-2001.md
             - RFC-2002: RFC/2-eco/RFC-2002.md
         - Applications: 
-            - Economics introduction: RFC/2-eco.md
+            - Applications Introduction: RFC/applications-introduction.md
             - RFC-2001: RFC/2-eco/RFC-2001.md
             - RFC-2002: RFC/2-eco/RFC-2002.md
-        - Legal: 
-            - Legal introduction: RFC/3-legal.md
+        - Regulation: 
+            - Regulation Introduction: RFC/regulation-introduction.md
             - RFC-3001:  RFC/3-legal/RFC-3001.md
             - RFC-3002:  RFC/3-legal/RFC-3002.md
-        - Technical: 
-            - Technical introduction: RFC/4-tech.md
+        - Economics: 
+            - Economics Introduction: RFC/economics-introduction.md
             - RFC-4001: RFC/4-tech/RFC-4001.md
             - RFC-4002: RFC/4-tech/RFC-4002.md
     - Glossar: glossar.md
+    - References: references.md
     - Contact:
         - FAQ: faq.md
         - Contribution: contribute.md
