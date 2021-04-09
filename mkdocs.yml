@@ -11,7 +11,7 @@ repo_url: 'https://github.com/internet-sicherheit/eBGF/'
 #Site navigation
 nav:
     - Home: index.md
-    - Governance Framework:
+    - Governance Framework: governance-framework.md
         - Organisation: 
             - Organisation Introduction: RFC/organisation-introduction.md
             - RFC-1001: RFC/1-inst/RFC-1001.md
