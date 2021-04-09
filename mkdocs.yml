@@ -46,8 +46,8 @@ nav:
 theme:
   name: material
   custom_dir: overrides
-  logo: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/site/assets/images/EBGF-logo-transparent-white.png'
-  favicon: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/site/assets/images/EBGF-logo-transparent-white.png'
+  logo: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/assets/images/EBGF-logo-transparent-white.png'
+  favicon: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/assets/images/EBGF-logo-transparent-white.png'
   features:
     - navigation.tabs
 extra:
