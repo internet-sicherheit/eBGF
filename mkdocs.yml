@@ -28,6 +28,9 @@ nav:
             - Technical introduction: RFC/4-tech.md
             - RFC-4001: RFC/4-tech/RFC-4001.md
             - RFC-4002: RFC/4-tech/RFC-4002.md
+        - Protocol:
+            - Protocol introduction: RFC/5-protocol.md
+            - RFC-0036: RFC/5-protocol/RFC-0036.md
     - Glossar: glossar.md
     - Contact:
         - FAQ: faq.md
