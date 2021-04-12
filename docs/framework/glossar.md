@@ -2,15 +2,15 @@
 
 ## Terms
 
-**Entity**\
+**Entity**  
 legal individual or organisation
 
-**Members*\
+**Members**  
 
-**Consensus**\
+**Consensus**    
 
-**User**\
+**User**  
 individual or organisation that interacts with a software application,
 an online service or a platform, a node
 
-**Validation**\
+**Validation**  
