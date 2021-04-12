@@ -68,7 +68,9 @@ nav:
             - Security: framework/10/RFC-1021.md
             - Hardware: framework/10/RFC-1031.md
             - Interoperability: framework/10/RFC-1041.md
-            - Permissions: framework/10/RFC-1051.md
+            - Permissions: 
+                - Ledger Read Permissions: framework/10/RFC-1051.md
+                - Ledger Write Permissions: framework/10/RFC-1052.md
             - Scalability: framework/10/RFC-1061.md
         - Glossar: framework/glossar.md
         - Literature: framework/bibliography.md
