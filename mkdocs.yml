@@ -10,71 +10,73 @@ repo_url: 'https://github.com/internet-sicherheit/eBGF/'
 
 #Site navigation
 nav:
-    - Home: 
+
+   - Home: 
         - Start: index.md
         - About: about.md
-    - Framework:
-        - 0 General Information:
-            - Overview: framework/0/overview.md
-            - Conventions: framework/0/conventions.md
-        - 1 Organisation: 
-            - Organisation Intro: framework/1/Organisation.md
-            - Motivation: framework/1/RFC-0111.md
-            - Goals: framework/1/RFC-0121.md
-            - Values: framework/1/RFC-0131.md
-            - Accountability: framework/1/RFC-0141.md
+   - Framework:
+        - General Information:
+            - Framework Overview: framework/0-framework/overview.md
+            - Conventions: framework/0-framework/conventions.md
+        - Organisation: 
+            - Organisation: framework/1-organisation/Organisation.md
+            - Motivation: framework/1-organisation/RFC-0111.md
+            - Goals: framework/1-organisation/RFC-0121.md
+            - Values: framework/1-organisation/RFC-0131.md
+            - Accountability: framework/1-organisation/RFC-0141.md
             - Permission-Policy: framework/1/RFC-0151.md
-        - 2 Application: 
-            - Application Intro: framework/2/Application.md
-            - Use Cases: framework/2/RFC-0211.md
-            - App developers: framework/2/RFC-0221.md
-            - Business models: framework/2/RFC-0231.md
-            - Users: framework/2/RFC-0241.md
-        - 3 Regulation: 
-            - Regulation Intro: framework/3/Regulation.md
-            - Antitrust: framework/3/RFC-0311.md
-            - AML and KYC: framework/3/RFC-0321.md
-            - Privacy (GDPR): framework/3/RFC-0331.md
-            - Copyright (DMS): framework/3/RFC-0341.md
-            - Services (DSA): framework/3/RFC-0351.md
-        - 4 Membership: 
-            - Membership Intro: framework/4/Membership.md
-            - Onboarding: framework/4/RFC-0411.md
-            - Offboarding: framework/4/RFC-0421.md
-        - 5 Ecosystem: 
-            - Ecosystem Intro: framework/5/Ecosystem.md
-            - SDK: framework/5/RFC-0511.md
-            - Documentations: framework/5/RFC-0521.md
-        - 6 Collaboration: 
-            - Collaboration Intro: framework/6/Collaboration.md
+        - Membership: 
+            - Membership Intro: framework/4-membership/Membership.md
+            - Onboarding: framework/4-membership/RFC-0411.md
+            - Offboarding: framework/4-membership/RFC-0421.md
+        - Collaboration: 
+            - Collaboration Intro: framework/6-collaboration/Collaboration.md
             - Communication: framework/6/RFC-0611.md
             - Decision-making: framework/6/RFC-0621.md
             - Onchain/offchain: framework/6/RFC-0631.md
-        - 7 Economics: 
-            - Economics Intro: framework/7/Economics.md
-            - Incentives: framework/7/RFC-0711.md
-            - Fees: framework/7/RFC-0721.md
-        - 8 Maintenance: 
-            - Maintenance Intro: framework/8/Maintenance.md
-            - Risk management: framework/8/RFC-0811.md
-            - Monitoring: framework/8/RFC-0821.md
-        - 9 Standards: 
-            - Standards Intro: framework/9/Standards.md
-            - Identifiers: framework/9/RFC-0911.md
-            - Development: framework/9/RFC-0921.md
-        - 10 Protocol: 
-            - Protocols Intro: framework/10/Protocol.md
-            - Concensus: framework/10/RFC-1011.md
-            - Security: framework/10/RFC-1021.md
-            - Hardware: framework/10/RFC-1031.md
-            - Interoperability: framework/10/RFC-1041.md
+        - Economics: 
+            - Economics Intro: framework/7-economics/Economics.md
+            - Incentives: framework/7-economics/RFC-0711.md
+            - Fees: framework/7-economics/RFC-0721.md
+        - Regulation: 
+            - Regulation Intro: framework/3-regulation/Regulation.md
+            - Antitrust: framework/3-regulation/RFC-0311.md
+            - AML and KYC: framework/3-regulation/RFC-0321.md
+            - Privacy (GDPR): framework/3-regulation/RFC-0331.md
+            - Copyright (DMS): framework/3-regulation/RFC-0341.md
+            - Services (DSA): framework/3-regulation/RFC-0351.md
+        - Standards: 
+            - Standards Intro: framework/9-standards/Standards.md
+            - Identifiers: framework/9-standards/RFC-0911.md
+            - Development: framework/9-standards/RFC-0921.md
+        - Applications: 
+            - Application Intro: framework/2-applications/Applications.md
+            - Use Cases: framework/2-applications/RFC-0211.md
+            - App developers: framework/2-applications/RFC-0221.md
+            - Business models: framework/2-applications/RFC-0231.md
+            - Users: framework/2-applications/RFC-0241.md
+        - Ecosystem: 
+            - Ecosystem Intro: framework/5-ecosystem/Ecosystem.md
+            - SDK: framework/5-ecosystem/RFC-0511.md
+            - Documentations: framework/5-ecosystem/RFC-0521.md
+        - Maintenance: 
+            - Maintenance Intro: framework/8-maintenance/Maintenance.md
+            - Risk management: framework/8-maintenance/RFC-0811.md
+            - Monitoring: framework/8-maintenance/RFC-0821.md
+        - Protocol: 
+            - Protocols Intro: framework/10-protocol/Protocol.md
+            - Concensus: framework/10-protocol/RFC-1011.md
+            - Security: framework/10-protocol/RFC-1021.md
+            - Hardware: framework/10-protocol/RFC-1031.md
+            - Interoperability: framework/10-protocol/RFC-1041.md
             - Permissions: 
-                - Ledger Read Permissions: framework/10/RFC-1051.md
-                - Ledger Write Permissions: framework/10/RFC-1052.md
-            - Scalability: framework/10/RFC-1061.md
+                - Ledger Read Permissions: framework/10-protocol/RFC-1051.md
+                - Ledger Write Permissions: framework/10-protocol/RFC-1052.md
+            - Scalability: framework/10-protocol/RFC-1061.md
         - Glossar: framework/glossar.md
         - Literature: framework/bibliography.md
-    - Contact:
+
+   - Contact:
         - FAQ: faq.md
         - Contribution: contribute.md
         - Presskit: press.md
