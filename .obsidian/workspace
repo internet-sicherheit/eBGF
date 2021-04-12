@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/framework/4/Membership.md",
+            "file": "docs/framework/glossar.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "member",
+                "query": "glo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/framework/4/Membership.md",
+                "file": "docs/framework/glossar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "55f41a93e4342ee5",
   "lastOpenFiles": [
+    "docs/framework/glossar.md",
     "docs/framework/4/Membership.md",
     "docs/framework/10/RFC-1051.md"
   ]
