@@ -1,18 +1,25 @@
 # Collaboration
 
-# Regulation
+## Abstract
 
-## Abstract 
-(1-2 sentences)
+(*1-2 sentences*)
     
-## Content 
-(max. +- 2.000 characters), see "motivation” in RFCs
+## Content
+
+(*max. +- 2.000 characters, former “motivation” section*) 
     
-## Elaboration  
-(max. +- 5.000 characters)
+## Elaboration
+
+(*max. +- 5.000 characters*)
     
-## Internal references and dependencies 
+## Internal references and dependencies**
+
+Lists of internal references and dependencies 
     
-## Best practices – examples 
-    
-## List of references
+## References to best practice, examples**  
+
+List of references to best practice, examples 
+	
+## Bibliography of selected references**
+
+List of references and literature
