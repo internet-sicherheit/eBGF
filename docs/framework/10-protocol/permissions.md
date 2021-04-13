@@ -26,6 +26,6 @@ List of references and literature
 
 ________
 
-Contributing authors: 
-Status of this document: **work in progress**  
-Last day modified: **2021-04-13**
+Contributing authors:   
+Status of this document: **work in progress**    
+Last day modified: **2021-04-13**  

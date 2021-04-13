@@ -18,8 +18,9 @@ nav:
         - News: news.md
 
    - Framework:
-        - General Information:
-            - Framework Overview: framework/0-framework/overview.md
+        - Scope:
+            - Introduction: framework/0-scope/introduction.md
+            - Scope: framework/0-scope/scope.md
         - Organisation: 
             - Introduction: framework/1-organisation/Organisation.md
             - Motivation: framework/1-organisation/RFC-0111.md

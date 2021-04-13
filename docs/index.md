@@ -8,8 +8,8 @@ The eco Blockchain Governance Framework – eBGF serves as an abstract collectio
 
 ________
 
-Contributing authors: **Sebastian Posth ** 
-Status of this document: **work in progress**  
-Last day modified: **2021-04-13**
+Contributing authors: **Sebastian Posth **   
+Status of this document: **work in progress**    
+Last day modified: **2021-04-13**   
 
 
