@@ -75,7 +75,7 @@ nav:
                 - Ledger Write Permissions: framework/10-protocol/RFC-1052.md
             - Scalability: framework/10-protocol/RFC-1061.md
         - Glossar: framework/glossar.md
-        - Literature: framework/bibliography.md
+        - References: framework/references.md
 
    - Contact:
         - FAQ: faq.md
