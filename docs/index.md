@@ -6,10 +6,10 @@
 
 The eco Blockchain Governance Framework – eBGF serves as an abstract collection of questions and problems that need to be adressed in order to operate a professional, production-grade, public-permissioned blockchain network. 
 
-## Status of this publication
+________
 
-These websites are currently still **work in progress**!
-
-Last day modified: 2021-04-16
+Contributing authors: **Sebastian Posth ** 
+Status of this document: **work in progress**  
+Last day modified: **2021-04-13**
 
 
