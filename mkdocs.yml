@@ -20,54 +20,53 @@ nav:
    - Framework:
         - General Information:
             - Framework Overview: framework/0-framework/overview.md
-            - Conventions: framework/0-framework/conventions.md
         - Organisation: 
-            - Organisation: framework/1-organisation/Organisation.md
+            - Introduction: framework/1-organisation/Organisation.md
             - Motivation: framework/1-organisation/RFC-0111.md
             - Goals: framework/1-organisation/RFC-0121.md
             - Values: framework/1-organisation/RFC-0131.md
             - Accountability: framework/1-organisation/RFC-0141.md
             - Permission-Policy: framework/1/RFC-0151.md
         - Membership: 
-            - Membership Intro: framework/4-membership/Membership.md
+            - Introduction: framework/4-membership/Membership.md
             - Onboarding: framework/4-membership/RFC-0411.md
             - Offboarding: framework/4-membership/RFC-0421.md
         - Collaboration: 
-            - Collaboration Intro: framework/6-collaboration/Collaboration.md
+            - Introduction: framework/6-collaboration/Collaboration.md
             - Communication: framework/6/RFC-0611.md
             - Decision-making: framework/6/RFC-0621.md
             - Onchain/offchain: framework/6/RFC-0631.md
         - Economics: 
-            - Economics Intro: framework/7-economics/Economics.md
+            - Introduction: framework/7-economics/Economics.md
             - Incentives: framework/7-economics/RFC-0711.md
             - Fees: framework/7-economics/RFC-0721.md
         - Regulation: 
-            - Regulation Intro: framework/3-regulation/Regulation.md
+            - Introduction: framework/3-regulation/Regulation.md
             - Antitrust: framework/3-regulation/RFC-0311.md
             - AML and KYC: framework/3-regulation/RFC-0321.md
             - Privacy (GDPR): framework/3-regulation/RFC-0331.md
             - Copyright (DMS): framework/3-regulation/RFC-0341.md
             - Services (DSA): framework/3-regulation/RFC-0351.md
         - Standards: 
-            - Standards Intro: framework/9-standards/Standards.md
+            - Introduction: framework/9-standards/Standards.md
             - Identifiers: framework/9-standards/RFC-0911.md
             - Development: framework/9-standards/RFC-0921.md
         - Applications: 
-            - Application Intro: framework/2-applications/Applications.md
+            - Introduction: framework/2-applications/Applications.md
             - Use Cases: framework/2-applications/RFC-0211.md
             - App developers: framework/2-applications/RFC-0221.md
             - Business models: framework/2-applications/RFC-0231.md
             - Users: framework/2-applications/RFC-0241.md
         - Ecosystem: 
-            - Ecosystem Intro: framework/5-ecosystem/Ecosystem.md
+            - Introduction: framework/5-ecosystem/Ecosystem.md
             - SDK: framework/5-ecosystem/RFC-0511.md
             - Documentations: framework/5-ecosystem/RFC-0521.md
         - Maintenance: 
-            - Maintenance Intro: framework/8-maintenance/Maintenance.md
+            - Introduction: framework/8-maintenance/Maintenance.md
             - Risk management: framework/8-maintenance/RFC-0811.md
             - Monitoring: framework/8-maintenance/RFC-0821.md
         - Protocol: 
-            - Protocols Intro: framework/10-protocol/Protocol.md
+            - Introduction: framework/10-protocol/Protocol.md
             - Concensus: framework/10-protocol/RFC-1011.md
             - Security: framework/10-protocol/RFC-1021.md
             - Hardware: framework/10-protocol/RFC-1031.md
