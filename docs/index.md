@@ -1,6 +1,6 @@
 # eco Blockchain Governance Framework – eBGF
  
-![Overview](https://github.com/internet-sicherheit/eBGF/blob/main/overrides/assets/eBGF-Overview.png)
+![Overview](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/eBGF-Overview.png)
 
 ## The eco Blockchain Governance Framework – eBGF
 
