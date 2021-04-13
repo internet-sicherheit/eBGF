@@ -77,10 +77,15 @@ nav:
         - Glossar: framework/glossar.md
         - References: framework/references.md
 
-   - Contact:
+   - FAQ:
         - FAQ: faq.md
-        - Contribution: contribute.md
-        - Presskit: press.md
+        - + Ask a new question: contact.md
+
+
+   - Contact:
+        - About eBGF: about.md
+        - Contact us: contact.md
+        - News: news.md
 
 #Design
 theme:
@@ -90,6 +95,8 @@ theme:
   favicon: 'https://raw.githubusercontent.com/internet-sicherheit/eBGF/gh-pages/assets/images/EBGF-logo-transparent-white.png'
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+
 extra:
   social:
     - icon: fontawesome/brands/github
