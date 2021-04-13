@@ -13,8 +13,10 @@ edit_uri: 'https://github.com/internet-sicherheit/eBGF/edit/main/docs'
 nav:
 
    - Home: 
-        - Start: index.md
-        - About: about.md
+        - eBGF Overview: index.md
+        - Project initiators: about.md
+        - News: news.md
+
    - Framework:
         - General Information:
             - Framework Overview: framework/0-framework/overview.md
@@ -83,9 +85,7 @@ nav:
 
 
    - Contact:
-        - About eBGF: about.md
         - Contact us: contact.md
-        - News: news.md
 
 #Design
 theme:
