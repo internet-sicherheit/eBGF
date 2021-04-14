@@ -41,3 +41,5 @@ Weking, Jörg, Michael Mandalenakis, Andreas Hein, Sebastian Hermes, Markus Böh
 Blockgeeks. ‘What Is Blockchain Governance: Ultimate Beginner’s Guide’, 25 October 2019. [https://blockgeeks.com/guides/what-is-blockchain-governance-ultimate-beginners-guide/](https://blockgeeks.com/guides/what-is-blockchain-governance-ultimate-beginners-guide/).
 
 JD Supra. ‘Why the CPRA Is a Step Forward for Privacy but a Step Backwards for Blockchain’. Accessed 12 April 2021. [https://www.jdsupra.com/legalnews/why-the-cpra-is-a-step-forward-for-9644692/](https://www.jdsupra.com/legalnews/why-the-cpra-is-a-step-forward-for-9644692/).
+
+„Sovrin-Ledger-Access-Policies-V2.pdf“. Accessed 14 April 2021. [https://sovrin.org/wp-content/uploads/Sovrin-Ledger-Access-Policies-V2.pdf](https://sovrin.org/wp-content/uploads/Sovrin-Ledger-Access-Policies-V2.pdf).
