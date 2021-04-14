@@ -6,3 +6,6 @@
 
 ## [Institute for Internet Security – if(is)](https://www.internet-sicherheit.de/).
 The [Institute for Internet Security – if(is)](https://www.internet-sicherheit.de/) is an innovative, independent, scientific facility of the Westfälische Hochschule ("Westphalian University of Applied Sciences"), headed by Prof. Dr. (TU NN) Norbert Pohlmann. The Blockchain Lab is part of the Institute for Internet Security if(is).
+
+## [Fraunhofer FIT](https://www.fit.fraunhofer.de/)
+[Fraunhofer FIT](https://www.fit.fraunhofer.de/) is conducting R&D on user-friendly smart solutions that blend seamlessly in business processes, with expertise ranging from digitization and Industry 4.0 to IoT solutions. Its [Blockchain Lab](https://www.fit.fraunhofer.de/en/fb/cscw/blockchain.html) is led by Prof. Wolfgang Prinz, PhD.
