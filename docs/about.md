@@ -1,6 +1,6 @@
 # Project initiators
 
-![eco Logo](./eco-logo-300dpi-4.jpg){align=right}
+![eco Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/eco-logo.png){align=right}
 ## [eco – German Association of the Internet Industry](https://international.eco.de/about-eco/) 
 [*eco*](https://international.eco.de/about-eco/) or the *Verband der deutschen Internetwirtschaft e.V* is the largest organisation for the Internet industry in Europe and the Internet Authority in Germany, promoting the commercial and non-commercial use of the Internet. eco represents over 1,100 international member companies. eco operates the largest national data exchange, the De-CIX (Deutscher Commercial Internet Exchange).
 
