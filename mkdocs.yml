@@ -85,6 +85,7 @@ nav:
             - Node Monitoring: framework/10-protocol/RFC-0011.md
             - Consensus algorithm: framework/10-protocol/RFC-0008.md
             - Operational security guidelines: framework/10-protocol/RFC-0009.md
+            - Monitoring of overall network behavior: framework/10-protocol/RFC-0014.md
         - Glossar: framework/glossar.md
         - References: framework/references.md
 
