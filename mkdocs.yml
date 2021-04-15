@@ -77,6 +77,7 @@ nav:
                 - Ledger Read Permissions: framework/10-protocol/RFC-0036.md
                 - Ledger Write Permissions: framework/10-protocol/RFC-0035.md
             - Scalability: framework/10-protocol/RFC-1061.md
+            - Automated verification of node compliance: framework/10-protocol/RFC-0016.md
         - Glossar: framework/glossar.md
         - References: framework/references.md
 
