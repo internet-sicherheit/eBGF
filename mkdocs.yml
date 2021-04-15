@@ -81,6 +81,7 @@ nav:
             - Technical interoperability with other networks: framework/10-protocol/RFC-0020.md
             - Protocol updates: framework/10-protocol/RFC-0037.md
             - Different node types and classes: framework/10-protocol/RFC-0007.md
+            - Backup and restore procedures: framework/10-protocol/RFC-0013.md
         - Glossar: framework/glossar.md
         - References: framework/references.md
 
