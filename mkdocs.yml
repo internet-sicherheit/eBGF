@@ -64,6 +64,7 @@ nav:
             - Documentations: framework/5-ecosystem/RFC-0521.md
         - Maintenance: 
             - Introduction: framework/8-maintenance/Maintenance.md
+            - Application Monitoring: framework/8-maintenance/RFC-0012.md
             - Network Monitoring: framework/8-maintenance/RFC-0014.md
         - Protocol: 
             - Introduction: framework/10-protocol/Protocol.md
