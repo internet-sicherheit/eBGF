@@ -68,13 +68,13 @@ nav:
             - Network Monitoring: framework/8-maintenance/RFC-0014.md
         - Protocol: 
             - Introduction: framework/10-protocol/Protocol.md
-            - Concensus: framework/10-protocol/RFC-1011.md
+            - Concensus: 
                 - Consensus algorithm: framework/10-protocol/RFC-1008.md
-            - Security: framework/10-protocol/RFC-1021.md
+            - Security:
                 - Operational security guidelines: framework/10-protocol/RFC-1009.md
             - Hardware: framework/10-protocol/RFC-1031.md
-            - Interoperability: framework/10-protocol/RFC-1041.md
-                - Technical interoperability with other networks: framework/10-protocol/RFC-0020.md
+            - Interoperability:
+                - Technical interoperability with other networks: framework/10-protocol/RFC-1020.md
             - Permissions: 
                 - Introduction: framework/10-protocol/permissions.md
                 - Ledger Read Permissions: framework/10-protocol/RFC-1036.md
