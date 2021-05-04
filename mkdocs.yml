@@ -30,13 +30,17 @@ nav:
             - Permission-Policy: framework/1/RFC-0151.md
         - Membership: 
             - Introduction: framework/4-membership/Membership.md
-            - Onboarding: framework/4-membership/RFC-0411.md
-            - Offboarding: framework/4-membership/RFC-0421.md
+            - Member Eligibility Criteria: framework/4-membership/RFC-0411.md
+            - Application process for new members: framework/4-membership/RFC-0421.md
+            - Onboarding: framework/4-membership/RFC-0431.md
+            - Offboarding: framework/4-membership/RFC-0441.md
+            - Offboarding process for amicable member exit: framework/4-membership/RFC-0451.md
+            - Member Roles: framework/4-membership/RFC-0461.md
         - Collaboration: 
             - Introduction: framework/6-collaboration/Collaboration.md
-            - Communication: framework/6/RFC-0611.md
-            - Decision-making: framework/6/RFC-0621.md
-            - Onchain/offchain: framework/6/RFC-0631.md
+            - Consortial Communication: framework/6-collaboration/RFC-0611.md
+            - Technology Development: framework/6-collaboration/RFC-0621.md
+            - Decision-making (Onchain/offchain): framework/6-collaboration/RFC-0631.md
         - Economics: 
             - Introduction: framework/7-economics/Economics.md
             - Incentives: framework/7-economics/RFC-0711.md
