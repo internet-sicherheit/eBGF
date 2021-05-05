@@ -38,6 +38,6 @@ List of references and literature
 
 ________
 
-Contributing authors: **Peter Niehues** , **Matthias Kammer** , **Zoltan Fazekas** , **Ingo Keck** , **David Maas** , **Sebastian Posth**
+Contributing authors: **David Maas** , **Sebastian Posth**     
 Status of this document: **work in progress**  
 Last day modified: **2021-05-05**
