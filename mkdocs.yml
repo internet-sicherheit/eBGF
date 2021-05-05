@@ -17,19 +17,18 @@ nav:
         - Introduction: Introduction.md
         - Project partners: about.md
         - News: news.md
-
    - Framework:
         - Motivation:
             - Introduction: framework/0-motivation/motivation.md
             - Scope: framework/0-motivation/RFC-0010.md
             - Mission Statement: framework/0-motivation/RFC-0020.md
             - Goals and Values: framework/0-motivation/RFC-0030.md
-        - Organisation: 
+        - Organisation:
             - Introduction: framework/1-organisation/Organisation.md
             - Legal Institution: framework/1-organisation/RFC-0111.md
             - Compliance: framework/1-organisation/RFC-0121.md
             - Accountability: framework/1-organisation/RFC-0131.md
-        - Membership: 
+        - Membership:
             - Introduction: framework/4-membership/Membership.md
             - Eligibility: framework/4-membership/RFC-0411.md
             - Member Roles: framework/4-membership/RFC-0461.md
@@ -37,60 +36,59 @@ nav:
             - Onboarding: framework/4-membership/RFC-0431.md
             - Offboarding: framework/4-membership/RFC-0441.md
             - Amicable member exit: framework/4-membership/RFC-0451.md
-        - Collaboration: 
+        - Collaboration:
             - Introduction: framework/6-collaboration/Collaboration.md
             - Communication Policy: framework/6-collaboration/RFC-0611.md
             - Consortial Communication: framework/6-collaboration/RFC-0621.md
             - Decision-making (Onchain/offchain): framework/6-collaboration/RFC-0631.md
-        - Economics: 
+        - Economics:
             - Introduction: framework/7-economics/Economics.md
             - Incentives: framework/7-economics/RFC-0711.md
             - Fees: framework/7-economics/RFC-0721.md
-        - Regulation: 
+        - Regulation:
             - Introduction: framework/3-regulation/Regulation.md
             - Antitrust: framework/3-regulation/RFC-0311.md
             - AML and KYC: framework/3-regulation/RFC-0321.md
             - Privacy (GDPR): framework/3-regulation/RFC-0331.md
             - Copyright (DMS): framework/3-regulation/RFC-0341.md
             - Services (DSA): framework/3-regulation/RFC-0351.md
-            - Currencies and Tokens: framework/3-regulation/RFC-0361.md
-        - Standards: 
+            - Cryptocurrencies: framework/3-regulation/RFC-0361.md
+        - Standards:
             - Introduction: framework/9-standards/Standards.md
-            - Identifiers: framework/9-standards/RFC-0911.md
-            - Development: framework/9-standards/RFC-0921.md
-        - Applications: 
+            - Best Practice: framework/9-standards/RFC-0910.md
+            - Identifiers: framework/9-standards/RFC-0920.md
+        - Applications:
             - Introduction: framework/2-applications/Applications.md
             - Use Cases: framework/2-applications/RFC-0211.md
             - App developers: framework/2-applications/RFC-0221.md
             - Business models: framework/2-applications/RFC-0231.md
             - Users: framework/2-applications/RFC-0241.md
-        - Ecosystem: 
+        - Ecosystem:
             - Introduction: framework/5-ecosystem/Ecosystem.md
             - SDK: framework/5-ecosystem/RFC-0511.md
             - Documentations: framework/5-ecosystem/RFC-0521.md
-        - Maintenance: 
+        - Maintenance:
             - Introduction: framework/8-maintenance/Maintenance.md
             - Application Monitoring: framework/8-maintenance/RFC-0012.md
             - Network Monitoring: framework/8-maintenance/RFC-0014.md
-        - Protocol: 
+        - Protocol:
             - Introduction: framework/10-protocol/Protocol.md
-            - Consensus: framework/10-protocol/RFC-1008.md
-            - Operational security guidelines: framework/10-protocol/RFC-1009.md
-            - Nodes: 
+            - Nodes:
                 - Introduction: framework/10-protocol/Nodes.md
                 - Different node types and classes: framework/10-protocol/RFC-1007.md
-                - Automated verification of node compliance: framework/10-protocol/RFC-1016.md
+                - Verification of node compliance: framework/10-protocol/RFC-1016.md
                 - Node Monitoring: framework/10-protocol/RFC-1011.md
                 - Node software updates: framework/10-protocol/RFC-1010.md
                 - Backup and restore procedures: framework/10-protocol/RFC-1013.md
-            - Interoperability: framework/10-protocol/RFC-1020.md
-            - Permissions: 
+            - Scalability: framework/10-protocol/RFC-1061.md
+            - Permissions:
                 - Introduction: framework/10-protocol/Permissions.md
                 - Ledger Read Permissions: framework/10-protocol/RFC-1036.md
                 - Ledger Write Permissions: framework/10-protocol/RFC-1035.md
-            - Scalability: framework/10-protocol/RFC-1061.md
-            - Protocol updates: framework/10-protocol/RFC-1037.md
-
+            - Security: framework/10-protocol/RFC-1009.md
+            - Updates: framework/10-protocol/RFC-1037.md
+            - Consensus: framework/10-protocol/RFC-1008.md
+            - Interoperability: framework/10-protocol/RFC-1020.md 
         - Glossar: framework/glossar.md
         - References: framework/references.md
 
