@@ -38,6 +38,6 @@ List of references and literature
 
 ________
 
-Contributing authors: **David Maas** , **Sebastian Posth**     
+Contributing authors: **Sebastian Posth**, **David Maas**    
 Status of this document: **work in progress**  
 Last day modified: **2021-05-05**

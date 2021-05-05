@@ -26,19 +26,17 @@ nav:
             - Goals and Values: framework/0-motivation/RFC-0030.md
         - Organisation: 
             - Introduction: framework/1-organisation/Organisation.md
-            - Motivation: framework/1-organisation/RFC-0111.md
-            - Goals: framework/1-organisation/RFC-0121.md
-            - Values: framework/1-organisation/RFC-0131.md
-            - Accountability: framework/1-organisation/RFC-0141.md
-            - Permission-Policy: framework/1/RFC-0151.md
+            - Legal Institution: framework/1-organisation/RFC-0111.md
+            - Compliance: framework/1-organisation/RFC-0121.md
+            - Accountability: framework/1-organisation/RFC-0131.md
         - Membership: 
             - Introduction: framework/4-membership/Membership.md
-            - Member Eligibility Criteria: framework/4-membership/RFC-0411.md
+            - Eligibility: framework/4-membership/RFC-0411.md
+            - Member Roles: framework/4-membership/RFC-0461.md
             - Application process for new members: framework/4-membership/RFC-0421.md
             - Onboarding: framework/4-membership/RFC-0431.md
             - Offboarding: framework/4-membership/RFC-0441.md
-            - Offboarding process for amicable member exit: framework/4-membership/RFC-0451.md
-            - Member Roles: framework/4-membership/RFC-0461.md
+            - Amicable member exit: framework/4-membership/RFC-0451.md
         - Collaboration: 
             - Introduction: framework/6-collaboration/Collaboration.md
             - Communication Policy: framework/6-collaboration/RFC-0611.md
