@@ -1,4 +1,6 @@
-# Project initiators
+# Project partners
+
+##Project initiators
 
 ![eco Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/eco-logo.png){align=right}
 ## [eco – German Association of the Internet Industry](https://international.eco.de/about-eco/) 
@@ -11,3 +13,7 @@ The [Institute for Internet Security – if(is)](https://www.internet-sicherheit
 ![Fraunhofer FIT Logo](https://www.fit.fraunhofer.de/content/dam/fit/fit.svg){align=right}
 ## [Fraunhofer FIT](https://www.fit.fraunhofer.de/)
 [Fraunhofer FIT](https://www.fit.fraunhofer.de/) is conducting R&D on user-friendly smart solutions that blend seamlessly in business processes, with expertise ranging from digitization and Industry 4.0 to IoT solutions. Its [Blockchain Lab](https://www.fit.fraunhofer.de/en/fb/cscw/blockchain.html) is led by Prof. Wolfgang Prinz, PhD.
+
+## Project contributors
+
+tbd
