@@ -18,9 +18,11 @@ nav:
         - News: news.md
 
    - Framework:
-        - Scope:
-            - Introduction: framework/0-scope/introduction.md
-            - Scope: framework/0-scope/scope.md
+        - Motivation:
+            - Introduction: framework/0-motivation/introduction.md
+            - Scope: framework/0-motivation/RFC-0010.md
+            - Mission Statement: framework/0-motivation/RFC-0020.md
+            - Goals and Values: framework/0-motivation/RFC-0030.md
         - Organisation: 
             - Introduction: framework/1-organisation/Organisation.md
             - Motivation: framework/1-organisation/RFC-0111.md
