@@ -41,8 +41,8 @@ nav:
             - Member Roles: framework/4-membership/RFC-0461.md
         - Collaboration: 
             - Introduction: framework/6-collaboration/Collaboration.md
-            - Consortial Communication: framework/6-collaboration/RFC-0611.md
-            - Technology Development: framework/6-collaboration/RFC-0621.md
+            - Communication Policy: framework/6-collaboration/RFC-0611.md
+            - Consortial Communication: framework/6-collaboration/RFC-0621.md
             - Decision-making (Onchain/offchain): framework/6-collaboration/RFC-0631.md
         - Economics: 
             - Introduction: framework/7-economics/Economics.md
