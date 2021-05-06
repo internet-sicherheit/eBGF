@@ -2,14 +2,14 @@
 
 ## Abstract
 
-The protocoll topic is comprised of the components that bind the network architecture together, ranging from node specifications over consensus algorithms and ledger permissions up to security and scalability considerations. 
+The protocol topic is comprised of the components that bind the network architecture together, ranging from node specifications over consensus algorithms and ledger permissions up to security and scalability considerations. 
 The section will also document protocol updates and maintanence measures as well as externally relevant aspects such the interoperability with other networks.
     
 ## Motivation
 
 In order to start and run a fully functional blockchain network the members need to dive into more technical aspects that enable the actual implementation of the system.
 
-Considerations on node functionality, how formal compliance requirements are realized, node monitoring as well as node software updates are central to running and maintaining a node.
+Considerations on node functionality, how formal compliance requirements are realized, node monitoring as well as node software updates are central to running and mainteining a node.
 
 Furthermore, defining the possible spectrum of permissions that are available for the network actors is extremely useful for tailoring the capabilities of the users to the expected requirements.
 
