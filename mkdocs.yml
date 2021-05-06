@@ -19,7 +19,7 @@ nav:
         - News: news.md
    - Framework:
         - Motivation:
-            - Introduction: framework/0-motivation/Motivation.md
+            - Introduction: framework/0-motivation/motivation.md
             - Scope: framework/0-motivation/RFC-0010.md
             - Mission Statement: framework/0-motivation/RFC-0020.md
             - Goals and Values: framework/0-motivation/RFC-0030.md
@@ -74,7 +74,7 @@ nav:
         - Protocol:
             - Introduction: framework/10-protocol/Protocol.md
             - Nodes:
-                - Introduction: framework/10-protocol/Nodes.md
+                - Introduction: framework/10-protocol/nodes.md
                 - Different node types and classes: framework/10-protocol/RFC-1007.md
                 - Verification of node compliance: framework/10-protocol/RFC-1016.md
                 - Node Monitoring: framework/10-protocol/RFC-1011.md
@@ -82,7 +82,7 @@ nav:
                 - Backup and restore procedures: framework/10-protocol/RFC-1013.md
             - Scalability: framework/10-protocol/RFC-1061.md
             - Permissions:
-                - Introduction: framework/10-protocol/Permissions.md
+                - Introduction: framework/10-protocol/permissions.md
                 - Ledger Read Permissions: framework/10-protocol/RFC-1036.md
                 - Ledger Write Permissions: framework/10-protocol/RFC-1035.md
             - Security: framework/10-protocol/RFC-1009.md
