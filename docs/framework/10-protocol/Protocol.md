@@ -1,4 +1,4 @@
-# Protocol
+# Protocol Introduction
 
 ## Abstract
 
@@ -14,18 +14,18 @@
     
 ## Internal references and dependencies
 
-Lists of internal references and dependencies 
+(*Lists of internal references and dependencies*)
     
 ## References to best practice, examples  
 
-List of references to best practice, examples 
+(*List of references to best practice, examples*) 
 	
 ## Bibliography of selected references
 
-List of references and literature
+(*List of references and literature*)
 
 ________
 
-Contributing authors: 
+Contributing authors:   
 Status of this document: **work in progress**  
 Last day modified: **2021-04-13**
