@@ -55,15 +55,15 @@ Any new RFC gets a 4 digit number, the first two digits define the category, the
     
 4.  **Internal references and dependencies**
 
-	Lists of internal references and dependencies 
+	(*Lists of internal references and dependencies*)
     
 5. **References to best practice, examples**  
 
-	List of references to best practice, examples 
+	(*List of references to best practice, examples*) 
 	
 6. **Bibliography of selected references**
 
-	List of references and literature
+	(*List of references and literature*)
 
 *Please note that this structure might be due to changes in the process of the work and the progress of the writing.*
 
