@@ -19,22 +19,20 @@ Also, the members need to agree on communication policies for the various commun
 The following sections will focus on the topics of:
 
 - Communication policy
-- Platforms and purposes of communication
-    - Communication Policy
-    - Consortial communication
-    - Decision-making
+- Platforms and purposes for consortial communication
+- Decision-making
     
 ## Internal references and dependencies
 
-Lists of internal references and dependencies 
+(*Lists of internal references and dependencies*)  
     
 ## References to best practice, examples  
 
-List of references to best practice, examples
-
+(*List of references to best practice, examples*)  
+	
 ## Bibliography of selected references
 
-List of references and literature
+(*List of references and literature*)   
 
 ________
 
