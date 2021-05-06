@@ -4,5 +4,17 @@
 }
 
 .md-typeset h2 {
+    font-weight: 600;
+    color: black;
+}
+
+.md-typeset h3 {
+    font-weight: 550;
+    color: black;
+}
+
+
+.md-typeset h4 {
     font-weight: 500;
+    color: black;
 }
