@@ -4,20 +4,22 @@
 
 ## The eco Blockchain Governance Framework – eBGF
 
-The eBGF will serve as an abstract collection of topics that need to be addressed in order to operate a professional, production-grade, public-permissioned blockchain network. 
+The eco Blockchain Governance Framework (eBGF) is an initiative to create a framework that will support organisations that have the intention to set up such a dedicated public-permissioned, *consortial* blockchain network.
 
-The eBGF will offer structure, questions, considerations, thoughts, guidelines, links and recommendations for standards and best practices of technical implementations. It will document experiences regarding technical monitoring, hardware and software requirements, policies updates, backup and disaster recovery. It will describe the processes for off- and on-boarding of members into the network as well as proposing and executing changes to the governance itself, and it will address many more aspects.
+The eBGF will offer general experience, considerations, thoughts, questions from experts in all topics. 
 
-However, it will not define a specific blockchain governance which defines answers to all issues of any blockchain governance. 
+it will also provide specific links, recommendations and guidelines to examples, best practice implementations and standards for existing networks and their policies in order to operate a professional, production-grade, public-permissioned blockchain, enhance trust and transparence and improve the reliability and quality of the network, its services and the community.
 
-But addressing and locating issues of specific components on distinctive layers alone is a first step to finding solutions and improve the reliability and quality of the network and services. 
+The framework suggests a structure for the creation of a specific network governance and possible pipelines for the actual writing process.
 
-Addressing and locating issues of specific components on distinctive layers of a blockchain governance framework will also allow to evaluate and compare different networks protocols and governance models to each other and create greater transparency and trust in the blockchain networks of the future.
+However, the eBGF does not offer specific advise for an individual whitepaper. But providing an overview about the topics to address might be a first step towards a governance whitepaper.
+
+**NOTE!** These websites are work in progress. The content is not to be regarded as legal or business advice.
 
 ________
 
 Contributing authors: **Sebastian Posth **   
 Status of this document: **work in progress**    
-Last day modified: **2021-04-13**   
+Last day modified: **2021-05-06**   
 
 
