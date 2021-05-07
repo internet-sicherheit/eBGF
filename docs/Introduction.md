@@ -1,4 +1,4 @@
-# Introduction to the scope of the eco Blockchain Governance Framework
+# Introduction to the Scope of the eco Blockchain Governance Framework
 
 ## Governance for decentralised systems
 

@@ -1,4 +1,4 @@
-# Project partners
+# Project Partners
 
 ## Project initiators
 
@@ -16,7 +16,7 @@ The [Institute for Internet Security – if(is)](https://www.internet-sicherheit
 
 ## Project contributors
 
-![EPN Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/EPN-logo-small.png){align=right}
+![EPN Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/EPN-logo-180.png){align=right}
 ### [EPN – European Public Network](https://e-p-n.eu/)
 The [European Public Network](https://e-p-n.eu/) aims to become an ecosystem of distributed ledger technology research and business models. It strives to establish a legally compliant blockchain network.
 

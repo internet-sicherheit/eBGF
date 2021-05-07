@@ -1,4 +1,4 @@
-# Collaboration
+# Collaboration Introduction
 
 ## Abstract
 

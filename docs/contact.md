@@ -1,4 +1,4 @@
-# Contact us
+# Contact
 
 The work on the eco Blockchain Governance Framework – eBGF is an open, transparent and collaborative project. We would like to invite anyone to reach out with questions or contribute to the project. 
 
