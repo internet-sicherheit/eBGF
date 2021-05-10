@@ -15,6 +15,7 @@ nav:
    - Home: 
         - eBGF Summary: index.md
         - Introduction: Introduction.md
+        - Focus: focus.md
         - Project Partners: about.md
         - News: news.md
    - Framework:
