@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Rules for membership and the different roles.
+The topic of membership shows which criteria have to be fulfilled to become a member and which responsibilities are given through the different roles. It also includes processes to manage membership effectively and easily.
     
 ## Motivation
 
@@ -10,7 +10,14 @@ Membership confers a higher level of responsibility. In principle, anyone can ac
     
 ## Elaboration
 
-(*max. +- 5.000 characters*)
+The following sections deal with the following topics:
+
+- Eligibility
+- Application process for new members
+- Onboarding
+- Offboarding
+- Amicable member exit
+- Member Roles
     
 ## Internal references and dependencies
 
@@ -28,4 +35,4 @@ ________
 
 Contributing authors: **David Maas**
 Status of this document: **work in progress**  
-Last day modified: **2021-05-04**
+Last day modified: **2021-05-11**
