@@ -14,6 +14,10 @@ The [Institute for Internet Security – if(is)](https://www.internet-sicherheit
 ### [Fraunhofer FIT](https://www.fit.fraunhofer.de/)
 [Fraunhofer FIT](https://www.fit.fraunhofer.de/) is conducting R&D on user-friendly smart solutions that blend seamlessly in business processes, with expertise ranging from digitization and Industry 4.0 to IoT solutions. Its [Blockchain Lab](https://www.fit.fraunhofer.de/en/fb/cscw/blockchain.html) is led by Prof. Wolfgang Prinz.
 
+![TrustCerts Logo](https://www.trustcerts.de/wp-content/uploads/2021/05/Logo-1.svg){align=right}
+### [TrustCerts](https://www.trustcerts.de/)
+[TrustCerts](https://www.trustcerts.de/) is a spin of from the Institute for Internet Security with a strong focus on blockchain in the self sovreign identity context. Building a blockchain system from scratch allows them implementing requirements for security and usability in the most efficient way.
+
 ## Project contributors
 
 ![EPN Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/EPN-logo-180.png){align=right}
