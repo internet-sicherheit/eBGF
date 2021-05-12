@@ -70,26 +70,29 @@ nav:
             - Documentations: framework/5-ecosystem/RFC-0521.md
         - Maintenance:
             - Introduction: framework/8-maintenance/Maintenance.md
-            - Application Monitoring: framework/8-maintenance/RFC-0012.md
-            - Network Monitoring: framework/8-maintenance/RFC-0014.md
+            - Monitoring:
+                - Introduction: framework/8-maintenance/Monitoring.md
+                - Application Monitoring: framework/8-maintenance/RFC-0012.md
+                - Network Monitoring: framework/8-maintenance/RFC-0014.md
+                - Node Monitoring: framework/8-maintenance/RFC-1011.md
+            - Updates: framework/8-maintenance/RFC-1037.md
+            - Backup and restore procedures: framework/8-maintenance/RFC-1013.md
+            - Security: framework/8-maintenance/RFC-1009.md
         - Protocol:
             - Introduction: framework/10-protocol/Protocol.md
+            - Consensus: framework/10-protocol/RFC-1008.md
             - Nodes:
                 - Introduction: framework/10-protocol/nodes.md
                 - Different node types and classes: framework/10-protocol/RFC-1007.md
                 - Verification of node compliance: framework/10-protocol/RFC-1016.md
                 - Node Monitoring: framework/10-protocol/RFC-1011.md
                 - Node software updates: framework/10-protocol/RFC-1010.md
-                - Backup and restore procedures: framework/10-protocol/RFC-1013.md
-            - Scalability: framework/10-protocol/RFC-1061.md
             - Permissions:
                 - Introduction: framework/10-protocol/permissions.md
                 - Ledger Read Permissions: framework/10-protocol/RFC-1036.md
                 - Ledger Write Permissions: framework/10-protocol/RFC-1035.md
-            - Security: framework/10-protocol/RFC-1009.md
-            - Updates: framework/10-protocol/RFC-1037.md
-            - Consensus: framework/10-protocol/RFC-1008.md
-            - Interoperability: framework/10-protocol/RFC-1020.md 
+            - Interoperability: framework/10-protocol/RFC-1020.md
+            - Scalability: framework/10-protocol/RFC-1061.md 
         - Glossar: framework/glossar.md
         - References: framework/references.md
 
