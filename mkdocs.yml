@@ -76,7 +76,7 @@ nav:
                 - Network Monitoring: framework/8-maintenance/RFC-0014.md
                 - Node Monitoring: framework/8-maintenance/RFC-1011.md
             - Updates: framework/8-maintenance/RFC-1037.md
-            - Backup and restore procedures: framework/8-maintenance/RFC-1013.md
+            - Backup: framework/8-maintenance/RFC-1013.md
             - Security: framework/8-maintenance/RFC-1009.md
         - Protocol:
             - Introduction: framework/10-protocol/Protocol.md
