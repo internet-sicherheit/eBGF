@@ -21,9 +21,9 @@ nav:
    - Framework:
         - Motivation:
             - Introduction: framework/0-motivation/motivation.md
-            - Scope: framework/0-motivation/RFC-0010.md
-            - Mission Statement: framework/0-motivation/RFC-0020.md
-            - Goals and Values: framework/0-motivation/RFC-0030.md
+            - Assessment: framework/0-motivation/RFC-0010.md
+            - Goals and Values: framework/0-motivation/RFC-0020.md
+            - Mission Statement: framework/0-motivation/RFC-0030.md
         - Organisation:
             - Introduction: framework/1-organisation/Organisation.md
             - Legal Institution: framework/1-organisation/RFC-0111.md
