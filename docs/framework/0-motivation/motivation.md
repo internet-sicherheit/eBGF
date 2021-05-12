@@ -21,17 +21,6 @@ Different reasons exist for organisations to set up a dedicated blockchain netwo
 
 3) The goals and values of the consortium should be publicly documented as this will create trust in the network and the applications that run on it. 
 
-## Internal references and dependencies
-
-*todo*
-
-## References to best practice, examples  
-
-*todo*
-	
-## Bibliography of selected references
-
-*todo*
 
 ________
 
