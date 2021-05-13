@@ -21,7 +21,9 @@ Different reasons exist for organisations to set up a consortium that will run a
 ## Bibliography of selected references
 
 ‘ACT-IAC White Paper: Blockchain Playbook for the U.S. Federal Government’. 2018. ACT-IAC. 2 April 2018. https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government.
+
 ‘Banding Together for Blockchain’. n.d. Accessed 30 March 2021. https://www2.deloitte.com/us/en/insights/focus/signals-for-strategists/emergence-of-blockchain-consortia.html.
+
 Dib, Omar, Kei-Léo Brousmiche, Antoine Durand, Eric Thea, and Elyes Ben Hamida. 2018. ‘Consortium Blockchains: Overview, Applications and Challenges’. International Journal On Advances in Telecommunications. https://hal.archives-ouvertes.fr/hal-02271063.
 
 

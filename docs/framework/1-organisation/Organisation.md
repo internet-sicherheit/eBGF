@@ -23,6 +23,7 @@
 ## Bibliography of selected references
 
 Graf, M., R. Küsters, and D. Rausch. 2020. ‘Accountability in a Permissioned Blockchain: Formal Analysis of Hyperledger Fabric’. In 2020 IEEE European Symposium on Security and Privacy (EuroS P), 236–55. https://doi.org/10.1109/EuroSP48549.2020.00023.
+
 Kumar, Randhir, and Rakesh Tripathi. 2021. ‘Scalable and Secure Access Control Policy for Healthcare System Using Blockchain and Enhanced Bell–LaPadula Model’. Journal of Ambient Intelligence and Humanized Computing 12 (2): 2321–38. https://doi.org/10.1007/s12652-020-02346-8.
    
 

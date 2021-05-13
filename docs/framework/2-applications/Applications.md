@@ -23,6 +23,7 @@
 ## Bibliography of selected references
 
 Kim, Shiho, and Ganesh Chandra Deka, eds. 2020. Advanced Applications of Blockchain Technology. Vol. 60. Studies in Big Data. Singapore: Springer Singapore. https://doi.org/10.1007/978-981-13-8775-3.
+
 Weking, Jörg, Michael Mandalenakis, Andreas Hein, Sebastian Hermes, Markus Böhm, and Helmut Krcmar. 2020. ‘The Impact of Blockchain Technology on Business Models – a Taxonomy and Archetypal Patterns’. Electronic Markets 30 (2): 285–305. https://doi.org/10.1007/s12525-019-00386-3.
   
 
