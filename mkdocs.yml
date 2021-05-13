@@ -72,12 +72,12 @@ nav:
             - Maintenance: framework/8-maintenance/Maintenance.md
             - Monitoring:
                 - Introduction: framework/8-maintenance/Monitoring.md
-                - Application Monitoring: framework/8-maintenance/RFC-0012.md
-                - Network Monitoring: framework/8-maintenance/RFC-0014.md
-                - Node Monitoring: framework/8-maintenance/RFC-1011.md
-            - Updates: framework/8-maintenance/RFC-1037.md
-            - Backup: framework/8-maintenance/RFC-1013.md
-            - Security: framework/8-maintenance/RFC-1009.md
+                - Application Monitoring: framework/8-maintenance/RFC-0811.md
+                - Network Monitoring: framework/8-maintenance/RFC-0821.md
+                - Node Monitoring: framework/8-maintenance/RFC-0831.md
+            - Updates: framework/8-maintenance/RFC-0841.md
+            - Backup: framework/8-maintenance/RFC-0851.md
+            - Security: framework/8-maintenance/RFC-0861.md
         - Protocol:
             - Protocol: framework/10-protocol/Protocol.md
             - Consensus: framework/10-protocol/RFC-1008.md
