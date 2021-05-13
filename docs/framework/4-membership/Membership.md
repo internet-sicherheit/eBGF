@@ -29,7 +29,10 @@ List of references to best practice, examples
 	
 ## Bibliography of selected references
 
-List of references and literature
+‘Bloxberg – Blockchain Infrastructure for Scientific Research’. n.d. Bloxberg. Accessed 13 May 2021. https://bloxberg.org/.
+Natoli, Christopher, Jiangshan Yu, Vincent Gramoli, and Paulo Esteves-Verissimo. 2019. ‘Deconstructing Blockchains: A Comprehensive Survey on Consensus, Membership and Structure’. ArXiv:1908.08316 [Cs], August. http://arxiv.org/abs/1908.08316.
+‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. https://sovrin.org/.
+
 
 ________
 

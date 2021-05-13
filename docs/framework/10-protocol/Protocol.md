@@ -31,7 +31,10 @@ Finally, aspects relating to interoperability with other networks and protocol u
 	
 ## Bibliography of selected references
 
-(*List of references and literature*)
+Kumar, Randhir, and Rakesh Tripathi. 2021. ‘Scalable and Secure Access Control Policy for Healthcare System Using Blockchain and Enhanced Bell–LaPadula Model’. Journal of Ambient Intelligence and Humanized Computing 12 (2): 2321–38. https://doi.org/10.1007/s12652-020-02346-8.
+Natoli, Christopher, Jiangshan Yu, Vincent Gramoli, and Paulo Esteves-Verissimo. 2019. ‘Deconstructing Blockchains: A Comprehensive Survey on Consensus, Membership and Structure’. ArXiv:1908.08316 [Cs], August. http://arxiv.org/abs/1908.08316.
+‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. https://sovrin.org/.
+
 
 ________
 

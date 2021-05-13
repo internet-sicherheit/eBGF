@@ -47,6 +47,32 @@ The eBGF will support the process of finding the right approach for each individ
 5) Regulation --> Use Cases --> ... 
 6) Regulation --> Ecosystem, Maintenance --> Membership --> Economics --> Collaboration
 
+## Bibliography of selected references
+
+‘ISO/IEC 20000-1:2018’. n.d. ISO. Accessed 13 May 2021. https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/07/06/70636.html.
+‘ISO/IEC 27001:2013’. n.d. ISO. Accessed 13 May 2021. https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/05/45/54534.html.
+‘ISO/IEC 27017:2015’. n.d. ISO. Accessed 13 May 2021. https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/04/37/43757.html.
+‘ISO/IEC 38500:2015’. n.d. ISO. Accessed 13 May 2021. https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/06/28/62816.html.
+‘ACT-IAC White Paper: Blockchain Playbook for the U.S. Federal Government’. 2018. ACT-IAC. 2 April 2018. https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government.
+Beck, Roman, Christoph Müller-Bloch, and John King. 2018. ‘Governance in the Blockchain Economy:  A Framework and Research Agenda’. Journal of the Association for Information Systems 19 (10). https://aisel.aisnet.org/jais/vol19/iss10/1.
+‘Blockchain Governance Principles: Everything You Need To Know’. 2020. 101 Blockchains. 19 August 2020. https://101blockchains.com/blockchain-governance/.
+Buterin, Vitalik. n.d. ‘Notes on Blockchain Governance’. Accessed 30 April 2021. https://vitalik.ca/general/2017/12/17/voting.html.
+Campbell-Verduyn, Malcolm. 2018. ‘What Are Blockchains and Why Are They Relevant to Governance in the Global Political Economy’. Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance, 1–24.
+Ehrsam, Fred. 2017. ‘Blockchain Governance: Programming Our Future’. Medium. 29 November 2017. https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74.
+‘Energy Web’. n.d. Energy Web. Accessed 13 May 2021. https://www.energyweb.org/.
+‘Ep.52 - Governance 101 in a Blockchain Ecosystem - Insureblocks’. n.d. Accessed 17 April 2021. https://insureblocks.com/ep-52-governance-101-in-a-blockchain-ecosystem/.
+‘Introduction to Permissioned Blockchains’. 2019. 101 Blockchains (blog). 2 June 2019. https://101blockchains.com/permissioned-blockchain/.
+Karjalainen, Risto. 2020. ‘Governance in Decentralized Networks’. SSRN Scholarly Paper ID 3551099. Rochester, NY: Social Science Research Network. Karjalainen - Governance.pdf. Download. https://doi.org/10.2139/ssrn.3551099.
+Kim, Shiho, and Ganesh Chandra Deka, eds. 2020. Advanced Applications of Blockchain Technology. Vol. 60. Studies in Big Data. Singapore: Springer Singapore. https://doi.org/10.1007/978-981-13-8775-3.
+‘P2145 Blockchain Governance Standards Working Group’. n.d. IEEE 2145. Accessed 17 April 2021. https://sagroups.ieee.org/ieee2145/.
+Pelt, Rowan van, Slinger Jansen, Djuri Baars, and Sietse Overbeek. 2021. ‘Defining Blockchain Governance: A Framework for Analysis and Comparison’. Information Systems Management 38 (1): 21–41. https://doi.org/10.1080/10580530.2020.1720046.
+‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. https://sovrin.org/.
+‘The Calculus of Consent: Logical Foundations of Constitutional Democracy The Collected Works of James M. Buchanan, Band 3: Amazon.de: Buchanan, James M., Tullock, Gordon: Bücher’. n.d. Accessed 19 April 2021. https://www.amazon.de/Calculus-Consent-Foundations-Constitutional-Democracy/dp/0865972184/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=calculus+consent&qid=1618826357&sr=8-1.
+Walch, Angela. 2018. ‘In Code(Rs) We Trust: Software Developers as Fiduciaries in Public Blockchains’. SSRN Scholarly Paper ID 3203198. Rochester, NY: Social Science Research Network. https://papers.ssrn.com/abstract=3203198.
+Weking, Jörg, Michael Mandalenakis, Andreas Hein, Sebastian Hermes, Markus Böhm, and Helmut Krcmar. 2020. ‘The Impact of Blockchain Technology on Business Models – a Taxonomy and Archetypal Patterns’. Electronic Markets 30 (2): 285–305. https://doi.org/10.1007/s12525-019-00386-3.
+‘What Is Blockchain Governance: Ultimate Beginner’s Guide’. 2019. Blockgeeks. 25 October 2019. https://blockgeeks.com/guides/what-is-blockchain-governance-ultimate-beginners-guide/.
+
+
 ________
 
 Contributing authors: **Sebastian Posth**   
