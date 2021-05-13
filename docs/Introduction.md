@@ -8,51 +8,47 @@ For corporate IT, governance models have been formalized and standardized in fra
 
 ## Overview of the eBGF
 
-Depending on the principle set-up of a blockchain network – whether we are speaking of public-permissionless, private-permissioned, or public-permissioned, *consortial blockchain* networks – different layers and components of governance may come into play and interact with each other quite distinctively. 
+Depending on the principle set-up of a blockchain network – whether we are speaking of public-permissionless, private-permissioned, or public-permissioned, *consortial blockchain* networks – different topics of blockchain governance may come into play and interact with each other quite distinctively on different layers or influence other topics and sections on other layers.
 
 ![Overview](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/eBGF-Overview.png)
 
-## Matrix structure
+The eBGF aims to provide a comprehensive overview about different topics and their relationship, which may help organisations to get familiar with the various aspects of the matter.
 
-The eBGF will provide a description of a *matrix structure*. This means that each components (or sub-component) on different layers will influence other components (or sub-component) on other layers.
+Different reasons exist for organisations to set up a blockchain network. This motivation needs to be clear and transparent in order to align current and future members to a mission statement, goals and values as well as the scope of the activity.
 
-The protocol governance will define the foundational technology and the consensus algorithm, which will have an effect on hardware requirements for validation nodes, maintenance or decisions-making for network updates.
+A governance also describes which members may join the consortium – or why they can’t or shouldn’t. Members can participate in the network in different roles. The processes for the on- and off--boarding of members need to be defined by the community, and for decisions to be made, a reliable communication and electoral system must be established that offers members the opportunity for participation and co-determination.
 
-The governance for nodes and validators (or miners) may be defined by the institution that will run the consortium, the collaboration of its members as well as policies to participate in the network, eventually touching the question of sufficient decentralisation.
+A blockchain can support different use cases that address and target different user groups. For them, it needs to be easy to use the technology, which implies that the tools and services need to be well documented and provided with simple terms of use.
 
-In case that a blockchain network is dedicated to a specific purpose or serves a certain use case in a specific industry, the community might have very different requirements on a blockchain network and the way how users or customers can interact with applications that connect to the network. 
+Most relevant is the selection of the network protocol, which include decisions on the consensus algorithm, scalability, security and interoperabiliy of the blockchain. This choice should depend on the use cases and relate to public standards and the best practice activities of the different sectors.
 
-Also, some industries or sectors might be more experienced with digital innovation or more knowledgeable of technical standards, so that the provided ecosystem, the SDKs, the wikis and documentations need to feature a very different level of specification. 
+In case that a blockchain network is dedicated to a specific purpose or serves a certain use case in a specific industry, the community might have very different requirements for a blockchain network and the way how users of applications based on the network can interact with applications that connect to the network. 
 
-The economic models of incentives and fees of a token economy is another central and highly sensitive component of any blockchain governance. The way how the consortium will issue and allocate tokens, define models for pre-mining or other benefits will provide the incentives for the members to join the consortium, but the implications of the economics have a significant impact on the perception of integrity and trust of the whole network. 
-
-Token economics have to be done right! No other aspect of a blockchain network will face more severe consequences for members of a consortium if done wrong, and the regulation of crypto assets in an international settings is only one of the rabbit wholes consortia may be trapped in. Token economics require transparency as the principle guiding principle!
+The economic models of fees and incentives create a token economy which is another fundamental and highly sensitive component of any blockchain governance. The way how the consortium will issue and utilise tokens may touch financial regulation and have a significant impact on the perception of integrity and trust of the whole network. Token economics have to be done right! No other aspect of a blockchain network will face more severe consequences for members of a consortium if done wrong, and the regulation of crypto assets in an international settings is only one of the issues to be taken into account. Token economics require transparency as the guiding principle!
 
 Many other components of a blockchain governance refer to a very heterogeneous and rapidly evolving landscape of international regulation, laws, policies, and the liabilities that can be encountered in this landscape can be challenging for organisations to oversee. 
 
-## Strategies for publicly identifiable legal entities
+Regulatory issues need to be openly and transparently addressed in order not to transition projects into a legal grey area. Consortium blockchains are operated by publicly identifiable legal entities. Ignoring regulatory issues at stake is not an option for public-permissioned blockchain networks, that are operated by a consortium of possibly known and established organizations.
 
-Existing public networks shifted some of the mentioned issues of governance towards the layer of the technical protocol and code-based rules. Other issues simply remained unaddressed and unresolved, thereby transitioning the projects into a legal grey area. 
+## Different paths to create a governance whitepaper 
 
-Both strategies – trying to respond to regulatory issues concerning one specific component by putting the burden to solve this issue on another, or trying to simply ignore issues at stake, are not an option for public-permissioned blockchain networks, that are operated by a consortium of possibly known and established organizations. The fact that publicly identifiable legal entities collaborate to collectively operate a system makes the operators responsible for the system, as well as for activities that occur in this system. 
+The eBGF will support the process of finding the right approach for each individual network – in technical and social regards – to create their specific governance whitepaper.  However, there are a number of possible paths, deriving from different perspectives, that can direct the creation and writing process of a specific governance whitepaper from different angles of the framework.
 
-All too often the governance model of public-permissioned consortium-run blockchain networks lacks the quality which is required to serve the goals and use cases of that particular blockchain network. To improve on this situation we are proposing the eco Blockchain Governance Framework. The eBGF will support the conception and creation of a proper governance for specific individual blockchain consortia in order to operate a professional, production-grade, public-permissioned, consortial blockchain network. 
+![Overview](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/eBGF-paths.png)
 
-## The eBGF
+1) Use cases --> Users --> Ecosystem --> Maintenance --> ... 
 
-The eBGF will serve as an abstract collection of topics that need to be addressed in order to operate a professional, production-grade, public-permissioned blockchain network. 
+2) Motivation --> Organisation --> Membership --> Economics --> ... 
 
-The eBGF will offer structure, questions, considerations, thoughts, guidelines, links and recommendations for standards and best practices of technical implementations. It will document experiences regarding technical monitoring, hardware and software requirements, policies updates, backup and disaster recovery. It will describe the processes for off- and on-boarding of members into the network as well as proposing and executing changes to the governance itself, and it will address many more aspects.
+3) Standards --> Protocol --> Maintenance --> ... 
 
-However, it will not define a specific blockchain governance which defines answers to all issues of any blockchain governance. 
+4) Protocol --> Economics --> ... 
 
-But addressing and locating issues of specific components on distinctive layers alone is a first step to finding solutions and improve the reliability and quality of the network and services. 
-
-Addressing and locating issues of specific components on distinctive layers of a blockchain governance framework will also allow to evaluate and compare different networks protocols and governance models to each other and create greater transparency and trust in the blockchain networks of the future.
-
+5) Regulation --> Use Cases --> ... 
+6) Regulation --> Ecosystem, Maintenance --> Membership --> Economics --> Collaboration
 
 ________
 
-Contributing authors: **Sebastian Posth**  
+Contributing authors: **Sebastian Posth**   
 Status of this document: **work in progress**    
 Last day modified: **2021-04-13**
