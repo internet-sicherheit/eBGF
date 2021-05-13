@@ -6,17 +6,19 @@ The eBGF will provide a blockchain network and community governance framework th
 
 ## Motivation
 
-There are different types of blockchain networks. Usually, the following permission types are distinguished: 
-
-1) Private-permissioned  
-2) Public-permissioned  
-3) Public-permissionless
+There are different types of blockchain networks. 
 
 |             	|       **permissioned**      	| **permissionless** 	|
 |:-----------:	|:---------------------------:	|:------------------:	|
 |  **public** 	| *EnergyWeb, bloxberg, Sovrin*	|  *Bitcoin, Ethereum* 	|
 | **private** 	|      *Hyperledger Fabric*    	|         *n/a*        	|
 
+
+Usually, the following permission types are distinguished: 
+
+1) Private-permissioned  
+2) Public-permissioned  
+3) Public-permissionless
 
 *Public-permissioned blockchains* are networks on which: 
 
@@ -62,13 +64,11 @@ The advantages of consortial blockchains are:
 
 **Flexibility** – As the members are in control of the nodes, network development and updates can be done much faster (given that there is a certain investment in development of the underlying open-source technologies)  and more flexible with a focus on the need of the individual industry sector.
 
-## Requirement for a network governance
+### Requirement for a network governance
 
 A consortial blockchain network strikes a compromise between the highly decentralized public-permissionless blockchain networks such as Bitcoin or Ethereum – which pay their trustless operation model with high energy usage – and classic IT systems, which often aren’t engineered to be run by a set of different organisations. 
 
 However, since blockchain is a relatively new and highly complicated technology, sometimes the trick lies in the detail. It might not be easy for all industries to get acquainted with the idea of setting up and maintaining a permissioned blockchain. While it's true, that in theory the network can be adapted to the needs of the consortium, in practice it requires a comparably high investment into the underlying technology, both in order to understand capabilities and limitations, but also to perform actual changes to the code base or updates in order to be compatible in the future. Furthermore, running a consortial blockchain requires a committment to actively participate in the governing and developing communities of the consortium. 
-
-In order to operate a professional, production-grade, public-permissioned blockchain network, it is necessary that the members of the consortium agree on and implement a transparent network and community governance, which provides a set of rules for the operation and the use of the technology and the collaboration of the community. By establishing a governance for the blockchain and the members of the consortium, the consortium creates a root of trust for the operation of the blockchain.
 
 ## References to best practice, examples  
 

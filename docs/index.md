@@ -6,7 +6,9 @@
 
 The eco Blockchain Governance Framework (eBGF) is an initiative to create a framework that will support organisations that have the intention to set up a dedicated public-permissioned, *consortial* blockchain network. 
 
-Creating a governance whitepaper is the most relevant initial task of the consortium. A transparent documentation of the goals and values as well as the technology of the network will enhance the trust in the consortium and the blockchain. And it will improve the reliability and quality of the network, its services and the community in order to operate a professional, production-grade, public-permissioned blockchain.
+By establishing a governance for the blockchain and the members of the consortium, the consortium creates a root of trust for the operation of the blockchain.
+
+Creating a governance whitepaper is the most relevant initial task of the consortium.  A transparent documentation of the goals and values as well as the technology of the network will enhance the trust in the consortium and the blockchain. And it will improve the reliability and quality of the network, its services and the community in order to operate a professional, production-grade, public-permissioned blockchain. 
 
 For each of these topics, the eBGF will offer guidelines, recommendations for all relevant topics and links to best practice implementations of consortial blockchain networks.
 
