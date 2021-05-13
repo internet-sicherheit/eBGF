@@ -14,8 +14,8 @@ Different reasons exist for organisations to set up a consortium that will run a
     
 ## Elaboration
 
-1)  In order to successfully run a blockchain network, members of the consortium need to analyse and understand the benefits of setting-up a consortium and the reasons to choose the technology. Also, the scope and the purpose of the blockchain network should be defined.
-2)  The goals and values of the consortium should be publicly documented as this will create trust in the network and the applications that run on it. 
+1)  In order to successfully run a blockchain network, members of the consortium need to analyse and understand the benefits of setting-up a consortium and the reasons to choose the technology. Also, the scope and the purpose of the blockchain network should be defined.   
+2)  The goals and values of the consortium should be publicly documented as this will create trust in the network and the applications that run on it.   
 3)  All members of a consortium should agree on a principle mission statement. This mission statement should not be changed lightheartedly as it shall provide orientation, stability and guidance to the members of the consortium and interested parties or user groups outside of the inner core of the consortium members.
 
 ________
