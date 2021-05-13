@@ -1,4 +1,4 @@
-# Focus of the eco Blockchain Governance Framework
+# Scope of the eco Blockchain Governance Framework
 
 ## Abstract
 
