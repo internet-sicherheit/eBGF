@@ -9,22 +9,6 @@ The node subsection is designed to provide an in-depth overview of the node prot
 Nodes are the central elements of operation and communication in a blockchain network. Establishing the appropriate scope and functionality of the members' nodes, as well as managing their operation in the network is critical to the well-functioning of the blockchain as a whole.
 
 Identifying the types of nodes that the members want to adopt gives a clear indication of the resource allocation. Nodes need to meet certain requirements, both on the hardware- and service levels. Verifying that these requirements are fulfilled at any given time and automatizing the procedure is an objective of the network.
-    
-## Elaboration
-
-(*max. +- 5.000 characters*)
-    
-## Internal references and dependencies
-
-Lists of internal references and dependencies 
-    
-## References to best practice, examples  
-
-List of references to best practice, examples 
-	
-## Bibliography of selected references
-
-List of references and literature
 
 ________
 
