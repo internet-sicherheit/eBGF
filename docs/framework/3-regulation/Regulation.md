@@ -2,11 +2,11 @@
 
 ## Abstract
 
-(*1-2 sentences*)
+The following documents are intended to reflect the key cross-cutting regulatory issues of interest to blockchain networks. In particular, this presentation focuses on regulatory requirements that are necessary for secure and trustworthy implementation as well as subsequent operation. To this end, the relevant RFCs are based primarily on applicable national and international regulations in the areas of digital services and marketplaces, data protection, know your customer, anti-money laundering, antitrust law and copyright law. Of course, this chapter cannot cover every topic exhaustively, especially since there are additional specific regulatory requirements depending on the purpose and use cases of the network.
     
 ## Motivation
 
-(*max. +- 2.000 characters, former “motivation” section*) 
+The growing digitalization of society and economy has created a system with a limited array of large platforms emerging from it that act as private rule-makers or gatekeepers. This situation is indesirable for an open and free ecnonomy as it results in unfair conditions for other market participants, be it businesses or consumers. Thus following, a basic ruleset needs to be applied to platforms in order to even the market conditions as well as enable secure and trustworthy interactions.
     
 ## Elaboration
 
@@ -41,6 +41,6 @@ Schrepel, Thibault, and Vitalik Buterin. 2020. ‘Blockchain Code as Antitrust�
 
 ________
 
-Contributing authors: 
+Contributing authors: **Daniel Theis**
 Status of this document: **work in progress**  
-Last day modified: **2021-04-13**
+Last day modified: **2021-05-18**
