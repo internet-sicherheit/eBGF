@@ -75,16 +75,14 @@ nav:
                 - Application Monitoring: framework/8-maintenance/RFC-0811.md
                 - Network Monitoring: framework/8-maintenance/RFC-0821.md
                 - Node Monitoring: framework/8-maintenance/RFC-0831.md
+            - Compliance: framework/8-maintenance/RFC-0816.md
             - Updates: framework/8-maintenance/RFC-0841.md
             - Backup: framework/8-maintenance/RFC-0851.md
             - Security: framework/8-maintenance/RFC-0861.md
         - Protocol:
             - Protocol: framework/10-protocol/Protocol.md
             - Consensus: framework/10-protocol/RFC-1008.md
-            - Nodes:
-                - Nodes: framework/10-protocol/nodes.md
-                - Node types: framework/10-protocol/RFC-1007.md
-                - Node compliance: framework/10-protocol/RFC-1016.md
+            - Node types: framework/10-protocol/RFC-1007.md
             - Permissions:
                 - Permissions: framework/10-protocol/permissions.md
                 - Ledger Read Permissions: framework/10-protocol/RFC-1036.md
