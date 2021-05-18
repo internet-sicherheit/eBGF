@@ -83,3 +83,7 @@ To understand how the GitHub flow works, we recommend a quick 5 min. read:
 
 Experienced users can use a GitHub Desktop Client.
 
+### Document organization
+``How do I describe what I am working on?``
+
+Within the framework we have basically two types of documents: introductions and RFCs. Both can also be called documents buts RFCs only cover specific topics, e. g., "Consensus" or "Interopability". Topics or RFCs can also be grouped, e. g., "Permissions" is the group for read and write permissions. Every group and chapter has its own introduction and includes the name of the chapter or group it introduces.
