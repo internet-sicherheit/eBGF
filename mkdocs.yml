@@ -44,8 +44,8 @@ nav:
             - Decision-making (Onchain/offchain): framework/6-collaboration/RFC-0631.md
         - Economics:
             - Economics: framework/7-economics/Economics.md
-            - Incentives: framework/7-economics/RFC-0711.md
-            - Fees: framework/7-economics/RFC-0721.md
+            - Incentives or Fees: framework/7-economics/RFC-0711.md
+            - Token Economy: framework/7-economics/RFC-0721.md
         - Regulation:
             - Regulation: framework/3-regulation/Regulation.md
             - Antitrust: framework/3-regulation/RFC-0311.md
