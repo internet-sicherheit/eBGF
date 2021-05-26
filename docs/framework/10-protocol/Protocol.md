@@ -18,12 +18,13 @@ Finally, aspects relating to interoperability with other networks and protocol u
 	
 ## Bibliography of selected references
 
-Kumar, Randhir, and Rakesh Tripathi. 2021. ‘Scalable and Secure Access Control Policy for Healthcare System Using Blockchain and Enhanced Bell–LaPadula Model’. Journal of Ambient Intelligence and Humanized Computing 12 (2): 2321–38. https://doi.org/10.1007/s12652-020-02346-8.
+Daian, Philip, Steven Goldfeder, Tyler Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, and Ari Juels. 2019. ‘Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges’. ArXiv:1904.05234 [Cs], April. [http://arxiv.org/abs/1904.05234](http://arxiv.org/abs/1904.05234).
 
-Natoli, Christopher, Jiangshan Yu, Vincent Gramoli, and Paulo Esteves-Verissimo. 2019. ‘Deconstructing Blockchains: A Comprehensive Survey on Consensus, Membership and Structure’. ArXiv:1908.08316 [Cs], August. http://arxiv.org/abs/1908.08316.
+Kumar, Randhir, and Rakesh Tripathi. 2021. ‘Scalable and Secure Access Control Policy for Healthcare System Using Blockchain and Enhanced Bell–LaPadula Model’. Journal of Ambient Intelligence and Humanized Computing 12 (2): 2321–38. [https://doi.org/10.1007/s12652-020-02346-8](https://doi.org/10.1007/s12652-020-02346-8).
 
-‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. https://sovrin.org/.
+Natoli, Christopher, Jiangshan Yu, Vincent Gramoli, and Paulo Esteves-Verissimo. 2019. ‘Deconstructing Blockchains: A Comprehensive Survey on Consensus, Membership and Structure’. ArXiv:1908.08316 [Cs], August. [http://arxiv.org/abs/1908.08316](http://arxiv.org/abs/1908.08316).
 
+‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. [https://sovrin.org/](https://sovrin.org/).
 
 ________
 

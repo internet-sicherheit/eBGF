@@ -20,12 +20,23 @@ Different reasons exist for organisations to set up a consortium that will run a
 
 ## Bibliography of selected references
 
-‘ACT-IAC White Paper: Blockchain Playbook for the U.S. Federal Government’. 2018. ACT-IAC. 2 April 2018. https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government.
+‘ACT-IAC White Paper: Blockchain Playbook for the U.S. Federal Government’. 2018. ACT-IAC. 2 April 2018. [https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government](https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government).
 
-‘Banding Together for Blockchain’. n.d. Accessed 30 March 2021. https://www2.deloitte.com/us/en/insights/focus/signals-for-strategists/emergence-of-blockchain-consortia.html.
+‘Banding Together for Blockchain’. n.d. Accessed 30 March 2021. [https://www2.deloitte.com/us/en/insights/focus/signals-for-strategists/emergence-of-blockchain-consortia.html](https://www2.deloitte.com/us/en/insights/focus/signals-for-strategists/emergence-of-blockchain-consortia.html).
 
-Dib, Omar, Kei-Léo Brousmiche, Antoine Durand, Eric Thea, and Elyes Ben Hamida. 2018. ‘Consortium Blockchains: Overview, Applications and Challenges’. International Journal On Advances in Telecommunications. https://hal.archives-ouvertes.fr/hal-02271063.
+Corbin, Juliet, and Anselm Strauss. 2014. Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory. SAGE Publications.
 
+Dib, Omar, Kei-Léo Brousmiche, Antoine Durand, Eric Thea, and Elyes Ben Hamida. 2018. ‘Consortium Blockchains: Overview, Applications and Challenges’. International Journal On Advances in Telecommunications. [https://hal.archives-ouvertes.fr/hal-02271063](https://hal.archives-ouvertes.fr/hal-02271063).
+
+Fridgen, Gilbert, Jannik Lockl, Sven Radszuwill, and et al. 2018. ‘A Solution in Search of a Problem: A Method for the Development of Blockchain Use Cases’. In 24th Americas Conference on Information Systems, AMCIS 2018. Proceedings, 11.
+
+Labazova, Olga. 2019. ‘Towards a Framework for Evaluation of Blockchain Implementations’. ICIS 2019 Proceedings, November. [https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/18](https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/18).
+
+Risius, Marten, and Kai Spohrer. 2017. ‘A Blockchain Research Framework’. Business & Information Systems Engineering 59 (6): 385–409. [https://doi.org/10.1007/s12599-017-0506-0](https://doi.org/10.1007/s12599-017-0506-0).
+
+Walsh, Clara, Philip OReilly, Rob Gleasure, Joseph Feller, Shanping Li, and Jerry Cristoforo. 2016. ‘New Kid on the Block: A Strategic Archetypes Approach to Understanding the Blockchain’. ICIS 2016 Proceedings, December. [https://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/6](https://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/6).
+
+Wüst, Karl, and Arthur Gervais. 2018. ‘Do You Need a Blockchain?’ In 2018 Crypto Valley Conference on Blockchain Technology (CVCBT), 45–54. [https://doi.org/10.1109/CVCBT.2018.00011](https://doi.org/10.1109/CVCBT.2018.00011).
 
 ________
 

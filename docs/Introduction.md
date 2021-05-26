@@ -55,43 +55,67 @@ The eBGF will support the process of finding the right approach for each individ
 
 ‘ISO/IEC 27017:2015’. n.d. ISO. Accessed 13 May 2021. [https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/04/37/43757.html](https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/04/37/43757.html).  
 
-‘ISO/IEC 38500:2015’. n.d. ISO. Accessed 13 May 2021. [https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/06/28/62816.html](https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/06/28/62816.html).  
+‘ISO/IEC 38500:2015’. n.d. ISO. Accessed 13 May 2021. [https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/06/28/62816.html](https://www.iso.org/cms/render/live/en/sites/isoorg/contents/data/standard/06/28/62816.html).
 
-‘ACT-IAC White Paper: Blockchain Playbook for the U.S. Federal Government’. 2018. ACT-IAC. 2 April 2018. [https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government](https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government).  
+‘ACT-IAC White Paper: Blockchain Playbook for the U.S. Federal Government’. 2018. ACT-IAC. 2 April 2018. [https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government](https://www.actiac.org/act-iac-white-paper-blockchain-playbook-us-federal-government).
 
-Beck, Roman, Christoph Müller-Bloch, and John King. 2018. ‘Governance in the Blockchain Economy:  A Framework and Research Agenda’. Journal of the Association for Information Systems 19 (10). [https://aisel.aisnet.org/jais/vol19/iss10/1](https://aisel.aisnet.org/jais/vol19/iss10/1).  
+Beck, Roman, Christoph Müller-Bloch, and John King. 2018. ‘Governance in the Blockchain Economy:  A Framework and Research Agenda’. Journal of the Association for Information Systems 19 (10). [https://aisel.aisnet.org/jais/vol19/iss10/1](https://aisel.aisnet.org/jais/vol19/iss10/1).
 
-‘Blockchain Governance Principles: Everything You Need To Know’. 2020. 101 Blockchains. 19 August 2020. [https://101blockchains.com/blockchain-governance/](https://101blockchains.com/blockchain-governance/).  
+‘Blockchain Governance Principles: Everything You Need To Know’. 2020. 101 Blockchains. 19 August 2020. [https://101blockchains.com/blockchain-governance/](https://101blockchains.com/blockchain-governance/).
 
-Buterin, Vitalik. n.d. ‘Notes on Blockchain Governance’. Accessed 30 April 2021. [https://vitalik.ca/general/2017/12/17/voting.html](https://vitalik.ca/general/2017/12/17/voting.html).    
+Buchanan, James M., and Gordon Tullock. n.d. The Calculus of Consent: Logical Foundations of Constitutional Democracy. Accessed 19 April 2021.
 
-Campbell-Verduyn, Malcolm. 2018. ‘What Are Blockchains and Why Are They Relevant to Governance in the Global Political Economy’. Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance, 1–24.  
+Buterin, Vitalik. n.d. ‘Notes on Blockchain Governance’. Accessed 30 April 2021. [https://vitalik.ca/general/2017/12/17/voting.html](https://vitalik.ca/general/2017/12/17/voting.html).
 
-Ehrsam, Fred. 2017. ‘Blockchain Governance: Programming Our Future’. Medium. 29 November 2017. [https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74).  
+Campbell-Verduyn, Malcolm. 2018. ‘What Are Blockchains and Why Are They Relevant to Governance in the Global Political Economy’. Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance, 1–24.
 
-‘Energy Web’. n.d. Energy Web. Accessed 13 May 2021. https://www.energyweb.org/.
-‘Ep.52 - Governance 101 in a Blockchain Ecosystem - Insureblocks’. n.d. Accessed 17 April 2021. [https://insureblocks.com/ep-52-governance-101-in-a-blockchain-ecosystem](https://insureblocks.com/ep-52-governance-101-in-a-blockchain-ecosystem)/.  
+Corbin, Juliet, and Anselm Strauss. 2014. Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory. SAGE Publications.
 
-‘Introduction to Permissioned Blockchains’. 2019. 101 Blockchains (blog). 2 June 2019. [https://101blockchains.com/permissioned-blockchain/.](https://101blockchains.com/permissioned-blockchain/.)   
+Ehrsam, Fred. 2017. ‘Blockchain Governance: Programming Our Future’. Medium. 29 November 2017. [https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74).
 
-Karjalainen, Risto. 2020. ‘Governance in Decentralized Networks’. SSRN Scholarly Paper ID 3551099. Rochester, NY: Social Science Research Network. Karjalainen - Governance.pdf. Download. [https://doi.org/10.2139/ssrn.3551099](https://doi.org/10.2139/ssrn.3551099).   
+‘Energy Web’. n.d. Energy Web. Accessed 13 May 2021. [https://www.energyweb.org/](https://www.energyweb.org/).
 
-Kim, Shiho, and Ganesh Chandra Deka, eds. 2020. Advanced Applications of Blockchain Technology. Vol. 60. Studies in Big Data. Singapore: Springer Singapore. [https://doi.org/10.1007/978-981-13-8775-3](https://doi.org/10.1007/978-981-13-8775-3).   
+‘Ep.52 - Governance 101 in a Blockchain Ecosystem - Insureblocks’. n.d. Accessed 17 April 2021. [https://insureblocks.com/ep-52-governance-101-in-a-blockchain-ecosystem/](https://insureblocks.com/ep-52-governance-101-in-a-blockchain-ecosystem/).
 
-‘P2145 Blockchain Governance Standards Working Group’. n.d. IEEE 2145. Accessed 17 April 2021. [https://sagroups.ieee.org/ieee2145/](https://sagroups.ieee.org/ieee2145/).   
+Glaser, Florian. 2017. ‘Pervasive Decentralisation of Digital Infrastructures: A Framework for Blockchain Enabled System and Use Case Analysis’. In . [https://doi.org/10.24251/HICSS.2017.186](https://doi.org/10.24251/HICSS.2017.186).
+
+‘Introduction to Permissioned Blockchains’. 2019. 101 Blockchains (blog). 2 June 2019. [https://101blockchains.com/permissioned-blockchain/](https://101blockchains.com/permissioned-blockchain/).
+
+Karjalainen, Risto. 2020. ‘Governance in Decentralized Networks’. SSRN Scholarly Paper ID 3551099. Rochester, NY: Social Science Research Network. Karjalainen - Governance.pdf. Download. [https://doi.org/10.2139/ssrn.3551099.](https://doi.org/10.2139/ssrn.3551099.)
+
+Kim, Shiho, and Ganesh Chandra Deka, eds. 2020. Advanced Applications of Blockchain Technology. Vol. 60. Studies in Big Data. Singapore: Springer Singapore. [https://doi.org/10.1007/978-981-13-8775-3](https://doi.org/10.1007/978-981-13-8775-3).
+
+Labazova, Olga. 2019. ‘Towards a Framework for Evaluation of Blockchain Implementations’. ICIS 2019 Proceedings, November. [https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/18](https://aisel.aisnet.org/icis2019/blockchain_fintech/blockchain_fintech/18).
+
+Lacity, Mary. 2018. ‘Addressing Key Challenges to Making Enterprise Blockchain Applications a Reality’. MIS Q. Executive.
+
+Nærland, Kristoffer, Christoph Müller-Bloch, R. Beck, and Søren Palmund. 2017. ‘Blockchain to Rule the Waves - Nascent Design Principles for Reducing Risk and Uncertainty in Decentralized Environments’. In ICIS.
+
+Notheisen, Benedikt, Florian Hawlitschek, and Christof Weinhardt. 2017. ‘BREAKING DOWN THE BLOCKCHAIN HYPE – TOWARDS A BLOCKCHAIN MARKET ENGINEERING APPROACH’. Research Papers, June, 1062–80.
+
+‘P2145 Blockchain Governance Standards Working Group’. n.d. IEEE 2145. Accessed 17 April 2021. [https://sagroups.ieee.org/ieee2145/](https://sagroups.ieee.org/ieee2145/).
 
 Pelt, Rowan van, Slinger Jansen, Djuri Baars, and Sietse Overbeek. 2021. ‘Defining Blockchain Governance: A Framework for Analysis and Comparison’. Information Systems Management 38 (1): 21–41. [https://doi.org/10.1080/10580530.2020.1720046](https://doi.org/10.1080/10580530.2020.1720046).
 
-‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. [https://sovrin.org/](https://sovrin.org/).  
+Risius, Marten, and Kai Spohrer. 2017. ‘A Blockchain Research Framework’. Business & Information Systems Engineering 59 (6): 385–409. [https://doi.org/10.1007/s12599-017-0506-0](https://doi.org/10.1007/s12599-017-0506-0).
 
-‘The Calculus of Consent: Logical Foundations of Constitutional Democracy The Collected Works of James M. Buchanan, Band 3: Amazon.de: Buchanan, James M., Tullock, Gordon: Bücher’. n.d. Accessed 19 April 2021.
+Salviotti, Gianluca, Leonardo Maria De Rossi, and Nico Abbatemarco. 2018. ‘A Structured Framework to Assess the Business Application Landscape of Blockchain Technologies.’ In . [https://doi.org/10.24251/HICSS.2018.440](https://doi.org/10.24251/HICSS.2018.440).
+
+Schweizer, André, Vincent Schlatt, Nils Urbach, and et al. 2017. ‘Unchaining Social Businesses’. In 38th International Conference on Information Systems, ICIS 2017. Proceedings. Online Resource, Art. 8, 22.
+
+‘Sovrin’. n.d. Sovrin. Accessed 13 May 2021. [https://sovrin.org/](https://sovrin.org/).
 
 Walch, Angela. 2018. ‘In Code(Rs) We Trust: Software Developers as Fiduciaries in Public Blockchains’. SSRN Scholarly Paper ID 3203198. Rochester, NY: Social Science Research Network. [https://papers.ssrn.com/abstract=3203198](https://papers.ssrn.com/abstract=3203198).
+
+Walsh, Clara, Philip OReilly, Rob Gleasure, Joseph Feller, Shanping Li, and Jerry Cristoforo. 2016. ‘New Kid on the Block: A Strategic Archetypes Approach to Understanding the Blockchain’. ICIS 2016 Proceedings, December. [https://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/6](https://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/6).
 
 Weking, Jörg, Michael Mandalenakis, Andreas Hein, Sebastian Hermes, Markus Böhm, and Helmut Krcmar. 2020. ‘The Impact of Blockchain Technology on Business Models – a Taxonomy and Archetypal Patterns’. Electronic Markets 30 (2): 285–305. [https://doi.org/10.1007/s12525-019-00386-3](https://doi.org/10.1007/s12525-019-00386-3).
 
 ‘What Is Blockchain Governance: Ultimate Beginner’s Guide’. 2019. Blockgeeks. 25 October 2019. [https://blockgeeks.com/guides/what-is-blockchain-governance-ultimate-beginners-guide/](https://blockgeeks.com/guides/what-is-blockchain-governance-ultimate-beginners-guide/).
 
+Wüst, Karl, and Arthur Gervais. 2018. ‘Do You Need a Blockchain?’ In 2018 Crypto Valley Conference on Blockchain Technology (CVCBT), 45–54. [https://doi.org/10.1109/CVCBT.2018.00011](https://doi.org/10.1109/CVCBT.2018.00011).
+
+Ziolkowski, Rafael, Gianluca Miscione, and Gerhard Schwabe. 2018. ‘Consensus through Blockchains: Exploring Governance across Interorganizational Settings’. In Ziolkowski, Rafael; Miscione, Gianluca; Schwabe, Gerhard  (2018). Consensus through Blockchains: Exploring Governance across Interorganizational Settings.  In: International Conference of Information Systems (ICIS 2018), San Francisco, USA, 12 Dezember 2018 - 16 Dezember 2018. San Francisco, USA: s.n. [https://doi.org/10.5167/uzh-160378](https://doi.org/10.5167/uzh-160378).
 
 ________
 
