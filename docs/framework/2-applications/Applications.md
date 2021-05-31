@@ -2,19 +2,24 @@
 
 ## Abstract
 
-(*1-2 sentences*)
+This chapter covers multiple aspects of applications based on a blockchain network. It discusses benefits, use case scenarios, the development process, user involvement as well as an overall business model design or alignment.
+Moreover, this chapter discusses the potential as well as the limitation of blockchain-driven apps. Moreover it covers the benefits of so called DApps (Decentralized Apps) as well as their downsites.
     
 ## Motivation
 
-(*max. +- 2.000 characters, former “motivation” section*) 
+Every blockchain network pursues goals and has people or organizations operating within it. The means to do so are applications, whichfore, they try to achieve certain benefits that are in line with the basic principles of the blockchain network. Moreover, applications enable the possibility, based on the use cases, to interact and make transactions. These transactions can be part of a business model that benefits the operation and growth of the network.
     
 ## Elaboration
 
-(*max. +- 5.000 characters*)
-    
+### Benefits
+- Verification
+- Transparency
+- Privacy
+- Integrity
+
 ## Internal references and dependencies
 
-(*Lists of internal references and dependencies*)  
+Network Design
     
 ## References to best practice, examples  
 
@@ -48,6 +53,6 @@ Weking, Jörg, Michael Mandalenakis, Andreas Hein, Sebastian Hermes, Markus Böh
 
 ________
 
-Contributing authors: 
+Contributing authors: **Daniel Theis** 
 Status of this document: **work in progress**  
-Last day modified: **2021-04-13**
+Last day modified: **2021-05-31**
