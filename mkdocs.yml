@@ -46,6 +46,19 @@ nav:
             - Economics: framework/7-economics/Economics.md
             - Incentives or Fees: framework/7-economics/RFC-0711.md
             - Token Economy: framework/7-economics/RFC-0721.md
+        - Use Cases:
+            - Use Cases: framework/2-usecases/Usecases.md
+            - Applications: framework/2-usecases/RFC-0211.md
+            - Business models: framework/2-usecases/RFC-0221.md
+        - Users:
+            - Users: framework/11-users/Users.md
+            - Developers: framework/11-users/RFC-1111.md
+            - Consumers: framework/11-users/RFC-1121.md
+            - Business Entities: framework/11-users/RFC-1131.md
+        - Ecosystem:
+            - Ecosystem: framework/5-ecosystem/Ecosystem.md
+            - SDK: framework/5-ecosystem/RFC-0511.md
+            - Documentation: framework/5-ecosystem/RFC-0521.md
         - Regulation:
             - Regulation: framework/3-regulation/Regulation.md
             - Antitrust: framework/3-regulation/RFC-0311.md
@@ -58,16 +71,6 @@ nav:
             - Standards: framework/9-standards/Standards.md
             - Best Practice: framework/9-standards/RFC-0910.md
             - Identifiers: framework/9-standards/RFC-0920.md
-        - Applications:
-            - Applications: framework/2-applications/Applications.md
-            - Use Cases: framework/2-applications/RFC-0211.md
-            - App developers: framework/2-applications/RFC-0221.md
-            - Business models: framework/2-applications/RFC-0231.md
-            - Users: framework/2-applications/RFC-0241.md
-        - Ecosystem:
-            - Ecosystem: framework/5-ecosystem/Ecosystem.md
-            - SDK: framework/5-ecosystem/RFC-0511.md
-            - Documentation: framework/5-ecosystem/RFC-0521.md
         - Maintenance:
             - Maintenance: framework/8-maintenance/Maintenance.md
             - Monitoring:
