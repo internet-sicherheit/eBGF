@@ -1,4 +1,4 @@
-# Applications Introduction
+# Use Cases Introduction
 
 ## Abstract
 
