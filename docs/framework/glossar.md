@@ -8,7 +8,7 @@ storage unity in the ledger, contains transactions and is cryptographically sign
 **Entity**  
 legal individual or organisation
 
-**Ledger**
+**Ledger**   
 digital register in which blocks are stored, ofter used interchangeably with blockchain
 
 **Members**  
