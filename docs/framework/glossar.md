@@ -17,9 +17,9 @@ entities that participate in the consortium
 **Node**
 server that runs the blockchain protocol 
 
-**User**  
+**User**   
 individual or organisation that interacts with a software application,
 an online service or a platform, a node
 
-**Validator**
+**Validator**   
 a node that participates in the consensus protocol, i.e. may create blocks
