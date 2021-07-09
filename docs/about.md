@@ -20,6 +20,10 @@ The [Institute for Internet Security – if(is)](https://www.internet-sicherheit
 
 ## Project contributors
 
+![Fieldfisher Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/Fieldfisher-logo-300.png){align=right}
+### [Fieldfisher](https://www.fieldfisher.com/en)
+ [Fieldfisher](https://www.fieldfisher.com/en) is a European law firm with market-leading practices in many of the world's most dynamic sectors. We are an exciting, forward-thinking organisation with a particular focus on technology, financial services, energy & natural resources and life sciences. Our firm counts more than 1,700 people across 25 offices in Amsterdam, Barcelona, Beijing, Belfast, Birmingham, Bologna, Brussels, Dublin, Düsseldorf, Frankfurt, Guangzhou, Hamburg, London, Luxembourg, Madrid, Manchester, Milan, Munich, Paris, Rome, Shanghai, Turin, Venice and Silicon Valley.   
+
 ![EPN Logo](https://raw.githubusercontent.com/internet-sicherheit/eBGF/main/overrides/assets/EPN-logo-180.png){align=right}
 ### [EPN – European Public Network](https://e-p-n.eu/)
 The [European Public Network](https://e-p-n.eu/) aims to become an ecosystem of distributed ledger technology research and business models. 
